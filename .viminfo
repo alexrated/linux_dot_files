@@ -1,0 +1,587 @@
+# Vim 9.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q
+|2,0,1708032141,,"q"
+:wq
+|2,0,1708029166,,"wq"
+:w
+|2,0,1708027471,,"w"
+:q!
+|2,0,1707617751,,"q!"
+:wq!
+|2,0,1687388992,,"wq!"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de depuración (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""1	LINE	0
+	  	<title>Login 07</title>
+	    <meta charset="utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+		<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap" rel="stylesheet">
+	
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		
+		<link rel="stylesheet" href="css/style.css">
+	
+		</head>
+		<body>
+		<section class="ftco-section">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-6 text-center mb-5">
+						<h2 class="heading-section">Login #07</h2>
+					</div>
+				</div>
+				<div class="row justify-content-center">
+|3,1,1,1,20,0,1708029158,"  	<title>Login 07</title>","    <meta charset=\"utf-8\">","    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">","","	<link href=\"https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap\" rel=\"stylesheet\">","","	<link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css\">","	",>51
+|<"	<link rel=\"stylesheet\" href=\"css/style.css\">","","	</head>","	<body>","	<section class=\"ftco-section\">","		<div class=\"container\">","			<div class=\"row justify-content-center\">","				<div class=\"col-md-6 text-center mb-5\">","					<h2 class=\"heading-section\">Login #07</h2>","				</div>","			</div>","			<div class=\"row justify-content-center\">"
+"2	LINE	0
+	
+|3,0,2,1,1,0,1708023586,""
+"3	LINE	0
+	[{([])}]
+|3,0,3,1,1,0,1708023584,"[{([])}]"
+"4	LINE	0
+	
+|3,0,4,1,1,0,1708023488,""
+"5	LINE	0
+	}
+|3,0,5,1,1,0,1708023413,"}"
+"6	LINE	0
+	    
+|3,0,6,1,1,0,1708023412,"    "
+"7	LINE	0
+	{
+|3,0,7,1,1,0,1708023412,"{"
+"8	LINE	0
+	public static void main(String [] args)
+|3,0,8,1,1,0,1708023411,"public static void main(String [] args)"
+"9	LINE	0
+	# Por favor, adapta y descomenta las siguientes líneas:
+|3,0,9,1,1,0,1707772347,"# Por favor, adapta y descomenta las siguientes líneas:"
+"-	CHAR	0
+	magenta
+|3,0,36,0,1,0,1708023934,"magenta"
+
+# Marcas en el archivo:
+'0  1  0  ~/.gitconfig
+|4,48,1,0,1708032141,"~/.gitconfig"
+'1  6  4  ~/learning/curso_git/01-bases/index.html
+|4,49,6,4,1708029375,"~/learning/curso_git/01-bases/index.html"
+'2  6  33  ~/learning/curso_git/01-bases/index.html
+|4,50,6,33,1708029166,"~/learning/curso_git/01-bases/index.html"
+'3  3  12  ~/learning/curso_git/01-bases/index.html
+|4,51,3,12,1708029106,"~/learning/curso_git/01-bases/index.html"
+'4  3  12  ~/learning/curso_git/01-bases/index.html
+|4,52,3,12,1708029106,"~/learning/curso_git/01-bases/index.html"
+'5  3  12  ~/learning/curso_git/01-bases/index.html
+|4,53,3,12,1708029106,"~/learning/curso_git/01-bases/index.html"
+'6  3  12  ~/learning/curso_git/01-bases/index.html
+|4,54,3,12,1708029106,"~/learning/curso_git/01-bases/index.html"
+'7  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,55,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+'8  1  8  ~/Documentos/learning/java/First.java
+|4,56,1,8,1708024010,"~/Documentos/learning/java/First.java"
+'9  1  0  ~/.vimrc
+|4,57,1,0,1708023982,"~/.vimrc"
+
+# Lista de saltos (el más reciente va primero):
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1708032141,"~/.gitconfig"
+-'  6  4  ~/learning/curso_git/01-bases/index.html
+|4,39,6,4,1708029375,"~/learning/curso_git/01-bases/index.html"
+-'  6  4  ~/learning/curso_git/01-bases/index.html
+|4,39,6,4,1708029375,"~/learning/curso_git/01-bases/index.html"
+-'  6  33  ~/learning/curso_git/01-bases/index.html
+|4,39,6,33,1708029166,"~/learning/curso_git/01-bases/index.html"
+-'  6  33  ~/learning/curso_git/01-bases/index.html
+|4,39,6,33,1708029166,"~/learning/curso_git/01-bases/index.html"
+-'  3  2  ~/learning/curso_git/01-bases/index.html
+|4,39,3,2,1708029145,"~/learning/curso_git/01-bases/index.html"
+-'  3  2  ~/learning/curso_git/01-bases/index.html
+|4,39,3,2,1708029145,"~/learning/curso_git/01-bases/index.html"
+-'  3  2  ~/learning/curso_git/01-bases/index.html
+|4,39,3,2,1708029145,"~/learning/curso_git/01-bases/index.html"
+-'  3  2  ~/learning/curso_git/01-bases/index.html
+|4,39,3,2,1708029145,"~/learning/curso_git/01-bases/index.html"
+-'  3  12  ~/learning/curso_git/01-bases/index.html
+|4,39,3,12,1708029106,"~/learning/curso_git/01-bases/index.html"
+-'  3  12  ~/learning/curso_git/01-bases/index.html
+|4,39,3,12,1708029106,"~/learning/curso_git/01-bases/index.html"
+-'  1  0  ~/learning/curso_git/01-bases/index.html
+|4,39,1,0,1708029080,"~/learning/curso_git/01-bases/index.html"
+-'  1  0  ~/learning/curso_git/01-bases/index.html
+|4,39,1,0,1708029080,"~/learning/curso_git/01-bases/index.html"
+-'  1  0  ~/learning/curso_git/01-bases/index.html
+|4,39,1,0,1708029080,"~/learning/curso_git/01-bases/index.html"
+-'  1  0  ~/learning/curso_git/01-bases/index.html
+|4,39,1,0,1708029080,"~/learning/curso_git/01-bases/index.html"
+-'  1  0  ~/learning/curso_git/01-bases/index.html
+|4,39,1,0,1708029080,"~/learning/curso_git/01-bases/index.html"
+-'  1  0  ~/learning/curso_git/01-bases/index.html
+|4,39,1,0,1708029080,"~/learning/curso_git/01-bases/index.html"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,1,0,1708027812,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  5  40  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,5,40,1708027468,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  6  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,6,0,1708027413,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  7  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,7,0,1708027355,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  2  0  ~/Documentos/learning/java/1-cap/Hello.java
+|4,39,2,0,1708027353,"~/Documentos/learning/java/1-cap/Hello.java"
+-'  1  8  ~/Documentos/learning/java/First.java
+|4,39,1,8,1708024010,"~/Documentos/learning/java/First.java"
+-'  1  8  ~/Documentos/learning/java/First.java
+|4,39,1,8,1708024010,"~/Documentos/learning/java/First.java"
+-'  1  8  ~/Documentos/learning/java/First.java
+|4,39,1,8,1708024010,"~/Documentos/learning/java/First.java"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.gitconfig
+	*	1708032126	0
+	"	1	0
+	^	11	34
+	.	4	0
+	+	4	0
+	+	11	33
+	+	3	0
+	+	5	0
+	+	4	0
+
+> ~/learning/curso_git/01-bases/index.html
+	*	1708029371	0
+	"	6	4
+	^	6	34
+	.	6	33
+	+	3	12
+	+	4	4
+	+	7	2
+	+	6	33
+
+> ~/Documentos/learning/java/1-cap/Hello.java
+	*	1708027475	0
+	"	1	0
+	^	5	41
+	.	5	40
+	+	2	1
+	+	3	42
+	+	4	5
+	+	6	0
+	+	5	40
+
+> ~/.vimrc
+	*	1708023980	0
+	"	1	0
+	^	170	138
+	.	170	137
+	+	13	15
+	+	199	12
+	+	1	0
+	+	170	137
+
+> ~/Documentos/learning/java/First.java
+	*	1708023953	0
+	"	1	8
+	.	8	0
+	+	1	1
+	+	8	42
+	+	9	5
+	+	11	0
+	+	10	52
+	+	1	39
+	+	1	1
+	+	1	3
+	+	1	18
+	+	2	1
+	+	7	0
+	+	3	43
+	+	4	5
+	+	6	0
+	+	5	52
+	+	7	1
+	+	8	0
+
+> ~/Documentos/learning/java/NERD_tree_1
+	*	1708013426	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.bashrc
+	*	1707775340	0
+	"	43	94
+	^	43	95
+	.	43	94
+	+	105	96
+	+	109	0
+	+	105	95
+	+	107	54
+	+	108	15
+	+	43	45
+	+	50	30
+	+	51	30
+	+	39	29
+	+	43	94
+
+> /etc/anacrontab
+	*	1707766378	0
+	"	1	0
+
+> ~/test.sh
+	*	1707766140	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	3	19
+	+	1	3
+	+	1	0
+
+> /etc/crontab
+	*	1707765583	0
+	"	15	0
+
+> /tmp/crontab.zVkUQt
+	*	1707738341	0
+	"	1	30
+	^	1	31
+	.	1	30
+	+	1	30
+
+> /tmp/crontab.YBUzWj
+	*	1707738192	0
+	"	1	0
+
+> /tmp/crontab.4E64GW
+	*	1707737785	0
+	"	1	0
+
+> /tmp/crontab.JoLYs2
+	*	1707737648	0
+	"	1	40
+	^	1	41
+	.	1	40
+	+	1	40
+
+> /tmp/crontab.HdkyP2
+	*	1707737554	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> /tmp/crontab.PO6Jsh
+	*	1707737502	0
+	"	1	1434
+	^	1	1435
+	.	1	1430
+	+	1	1430
+
+> /tmp/crontab.cAIz2b
+	*	1707737230	0
+	"	1	0
+
+> ~/.config/kitty/kitty.conf
+	*	1707736829	0
+	"	1	0
+	^	9	38
+	.	9	38
+	+	250	46
+	+	250	11
+	+	250	25
+	+	774	23
+	+	775	22
+	+	774	23
+	+	1124	22
+	+	250	46
+	+	1124	22
+	+	250	46
+	+	250	0
+	+	3	0
+	+	27	13
+	+	775	24
+	+	27	13
+	+	774	25
+	+	775	25
+	+	27	11
+	+	774	25
+	+	27	11
+	+	774	25
+	+	775	25
+	+	9	37
+	+	27	11
+	+	1124	22
+	+	9	38
+
+> ~/test
+	*	1707409648	0
+	"	1	0
+	^	1	19
+	.	1	18
+	+	1	18
+
+> ~/Documentos/programacion/java/2-cap/NauticalMiles.java
+	*	1706572760	0
+	"	1	0
+
+> ~/NERD_tree_1
+	*	1706572530	0
+	"	37	0
+	.	1	0
+	+	1	0
+
+> ~/Documentos/programacion/java/2-cap/IntegerDemo.java
+	*	1706552720	0
+	"	1	0
+
+> ~/renata
+	*	1706215816	0
+	"	1	0
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/.ssh/config
+	*	1706029836	0
+	"	1	5
+	^	4	18
+	.	4	17
+	+	8	14
+	+	7	17
+	+	8	0
+	+	1	14
+	+	4	17
+
+> ~/.ssh/authorized_keys
+	*	1705959042	0
+	"	1	0
+	^	1	569
+	.	1	568
+	+	1	568
+
+> /etc/ssh/ssh_config
+	*	1705596105	0
+	"	38	0
+	.	38	0
+	+	38	0
+
+> ~/test.txt
+	*	1705338189	0
+	"	1	32
+	^	1	33
+	.	1	32
+	+	1	32
+
+> ~/Test.java
+	*	1705178196	0
+	"	1	0
+	^	3	50
+	.	3	49
+	+	1	19
+	+	2	46
+	+	4	0
+	+	3	49
+
+> ~/Documentos/programacion/java/2-cap/ArithmeticDemo3.java
+	*	1705161564	0
+	"	1	0
+
+> ~/Documentos/programacion/java/2-cap/MinutesConversion.java
+	*	1705160682	0
+	"	1	0
+
+> /etc/fstab
+	*	1687388997	0
+	"	16	0
+	^	16	0
+	.	15	107
+	+	15	107
+
+> /tmp/crontab.KILjps
+	*	1687377521	0
+	"	1	0
+
+> ~/Example.java
+	*	1685567113	0
+	"	1	0
+
+> ~/example.java
+	*	1685567091	0
+	"	1	0
+	.	8	0
+	+	2	1
+	+	3	43
+	+	4	5
+	+	6	0
+	+	5	50
+	+	8	0
