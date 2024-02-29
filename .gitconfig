@@ -1,0 +1,11 @@
+# Este es el archivo de configuración de Git por usuario.
+[user]
+	email = alexanderems@outlook.com
+	name = Javier Alexander Echeverri Agudelo
+[init]
+	defaultbranch = main
+[core]
+	editor = vim
+[alias]
+	s = status --short
+	lg = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold\ngreen)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)-\n%an%C(reset)%C(bold yellow)%d%C(reset)' --all
