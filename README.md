@@ -19,3 +19,5 @@
 [nord theme](https://github.com/nordtheme/vim)
 
 5. For color themes, you need to create a *colors* directory inside the *vim* directory. Look at the web for the color theme you like and read documentation.
+
+6. Don't forget to edit the .gitconfig file with your personal data for git
