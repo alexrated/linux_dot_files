@@ -7,7 +7,7 @@
 [core]
 	editor = vim
 [alias]
-	s = status --short
+	s = status --short -b
     lg = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold\ngreen)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)-\n%an%C(reset)%C(bold yellow)%d%C(reset)' --all
 [pull]
     rebase=true
