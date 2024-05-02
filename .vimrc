@@ -10,7 +10,7 @@
 " curl -o molokai.vim https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim
 " In the ~/.vim/colors/ directory
 
-colorscheme nord 
+colorscheme nord
 
 " 2. SECTIONS
 
@@ -120,6 +120,7 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'ap/vim-buftabline'
 Plug 'arcticicestudio/nord-vim'
 Plug 'luochen1990/rainbow'
+Plug 'maxboisvert/vim-simple-complete'
 
 call plug#end()
 
@@ -167,7 +168,7 @@ let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowTo
 
 let g:rainbow_conf = {
       \ 'guifgs' : ['#B22222', '#B22222', '#C0FF3E', '#EEC900', '#9A32CD', '#EE7600', '#98fb98', '#686868'],
-      \ 'ctermfgs': 'xterm-256color' == $TERM ? ['226', '87', '82', '208', '129', '166', '85', '237'] : ['red', 'magenta', 'yellow', 'blue', 'lightgreen'],
+      \ 'ctermfgs': 'xterm-256color' == $TERM ? ['226', '87', '82', '208', '129', '166', '85', '237'] : ['green', 'red', 'yellow', 'blue', 'lightgreen'],
       \ 'css': 0, 
       \ 'nerdtree': 0,
       \ }
