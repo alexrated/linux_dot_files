@@ -120,7 +120,9 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'ap/vim-buftabline'
 Plug 'arcticicestudio/nord-vim'
 Plug 'luochen1990/rainbow'
-Plug 'maxboisvert/vim-simple-complete'
+Plug 'valloric/youcompleteme'
+Plug 'tpope/vim-surround'
+" Plug 'maxboisvert/vim-simple-complete'
 
 call plug#end()
 
