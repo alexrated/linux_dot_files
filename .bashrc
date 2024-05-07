@@ -39,11 +39,16 @@ umask 0002
 export HISTCONTROL='ignorspace'
 
 # Variable PS1:
-
 PS1='\[\033[0;37m\]╭─ \A \[\033[1;34m\]\u-\[\033[1;34m\]\h 🐧 \[\033[1;36m\]\w\[\033[1;37m\]$(__git_ps1 " ( %s)")\n\[\033[0;37m\]╰▶ \[\033[0;37m\]$ '
 
 # Editor de texto:
 export EDITOR=/usr/bin/vim
+
+# Fuzzy finder and completion
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
+
+# Better fzf searching:
+export FZF_DEFAULT_COMMAND="fd --type f"
 
 # ************** ALIASES PERSONALIZADOS ******************
 
@@ -102,10 +107,16 @@ alias mem='cat /proc/meminfo | less'
 alias diskusage='sudo find . -maxdepth 1 -type d -exec du --exclude=proc -shx {} \; | sort -hr'
 
 # Entrar a mi SSD 2 (si tengo uno y ya lo he montado):
-alias ssd2='cd /home/alexrated/ssd_2'
+alias ssd2='cd /home/alexrated/ssd2'
 
 # alias para la configuración de kitty:
 alias kittyc='vim ~/.config/kitty/kitty.conf'
 
 # alias para ver imágenes en kitty:
 alias icat='kitten icat'
+
+# alias para previsualizar archivos con fzf:
+alias fpreview='fzf --preview "bat --color=always {}"'
+
+# alias para buscar un archivo y abrirlo con vim:
+alias fvim='vim $(fzf)'

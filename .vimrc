@@ -120,11 +120,11 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'ap/vim-buftabline'
 Plug 'arcticicestudio/nord-vim'
 Plug 'luochen1990/rainbow'
-" Plug 'valloric/youcompleteme'
 Plug 'tpope/vim-surround'
 Plug 'maxboisvert/vim-simple-complete'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 
 call plug#end()
 
@@ -165,7 +165,6 @@ set laststatus=2
 call lightline#init()
 set noshowmode
 " ********* End of lightline configurations **********
-
 
 " ********* Rainbow parentheses configuration ********
 let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowToggle
