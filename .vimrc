@@ -10,7 +10,10 @@
 " curl -o molokai.vim https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim
 " In the ~/.vim/colors/ directory
 
-colorscheme nord
+set termguicolors
+let g:tokyonight_style = 'night' " available: night, storm
+
+colorscheme tokyonight
 
 " 2. SECTIONS
 
@@ -125,6 +128,8 @@ Plug 'maxboisvert/vim-simple-complete'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'phanviet/vim-monokai-pro'
+Plug 'ghifarit53/tokyonight-vim'
 
 call plug#end()
 
@@ -170,8 +175,8 @@ set noshowmode
 let g:rainbow_active = 1 "set to 0 if you want to enable it later via :RainbowToggle
 
 let g:rainbow_conf = {
-      \ 'guifgs' : ['#B22222', '#B22222', '#C0FF3E', '#EEC900', '#9A32CD', '#EE7600', '#98fb98', '#686868'],
-      \ 'ctermfgs': 'xterm-256color' == $TERM ? ['226', '87', '82', '208', '129', '166', '85', '237'] : ['green', 'red', 'yellow', 'blue', 'lightgreen'],
+      \ 'guifgs' : ['#ffea19', '#e10600', '#00ff80', '#fb48c4', '#04d9ff', '#ff4f00', '#008080', '#cc00cc'],
+      \ 'ctermfgs': 'xterm-256color' == $TERM ? ['226', '87', '82', '208', '129', '166', '85', '237'] : ['green', 'red', 'blue', 'yellow', 'lightgreen'],
       \ 'css': 0, 
       \ 'nerdtree': 0,
       \ }
