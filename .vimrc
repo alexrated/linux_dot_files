@@ -128,6 +128,7 @@ Plug 'maxboisvert/vim-simple-complete'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 Plug 'phanviet/vim-monokai-pro'
 Plug 'ghifarit53/tokyonight-vim'
 
