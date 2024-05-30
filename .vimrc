@@ -13,6 +13,7 @@
 set termguicolors
 let g:tokyonight_style = 'night' " available: night, storm
 let g:tokyonight_disable_italic_comment = 0
+let g:tokyonight_enable_italic = 1
 " let g:tokyonight_transparent_background = 1
 colorscheme tokyonight
 
@@ -33,7 +34,7 @@ syntax on
 set number
 set relativenumber
 
-" Disable compatibility with vi (recomended):
+" Disable compatibility with vi (recommended):
 set nocompatible
 
 " Enable type file detection and load plugin for detected file type:
@@ -207,6 +208,14 @@ set signcolumn=yes
 
 " Use jj to replace scape key:
 inoremap jj <esc>
+
+" Move lines and blocks:
+nnoremap <A-j> :m .+1<CR>==
+nnoremap <A-k> :m .-2<CR>==
+inoremap <A-j> <Esc>:m .+1<CR>==gi
+inoremap <A-k> <Esc>:m .-2<CR>==gi
+vnoremap <A-j> :m '>+1<CR>gv=gv
+vnoremap <A-k> :m '<-2<CR>gv=gv
 
 " You can split the window in Vim by typing :split or :vsplit.
 " Navigate the split view easier by pressing CTRL+j, CTRL+k, CTRL+h, or CTRL+l.
