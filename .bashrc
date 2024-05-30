@@ -53,6 +53,11 @@ export FZF_DEFAULT_COMMAND="fd --type f"
 # fzf shell integration:
 eval "$(fzf --bash)"
 
+# JETBRAINS IDE CONFIGURATIONS (Use only if you're in a Linux environment and not using flatpack packege)
+# Add IntelliJ to $PATH:
+export PATH=$PATH:~/.JetBrains/intelliJ_ide/bin
+export PATH=$PATH:~/.JetBrains/pycharm_ide/bin
+
 # ************** ALIASES PERSONALIZADOS ******************
 
 # ls con indicador directorio:
@@ -123,3 +128,9 @@ alias fpreview='fzf --preview "bat --color=always {}"'
 
 # alias para buscar un archivo y abrirlo con vim:
 alias fvim='vim $(fzf)'
+
+# Abrir IntelliJ:
+alias intelliJ='idea.sh'
+
+# Abrir pycharm:
+alias pycharm="pycharm.sh"
