@@ -41,6 +41,9 @@ set nocompatible
 filetype on
 filetype plugin on
 
+" Vim commentary plugin necessary indent:
+filetype plugin indent on
+
 " Load an indent file for the detected file type:
 filetype indent on
 
@@ -115,18 +118,18 @@ autocmd CursorHold * silent call CocActionAsync('highlight')
 " curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 "    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 " Do not forget to save the file and do a :source ~/.vimrc after installing a plugin!
-" Do not forget, either, to do a :PlugInstall to get a succefully installation!
+" Do not forget, either, to do a :PlugInstall to get a successfully installation!
 
 call plug#begin('~/.vim/plugged')
 
-Plug 'dense-analysis/ale'
+" Plug 'dense-analysis/ale'
 Plug 'preservim/nerdtree'
 Plug 'preservim/nerdtree' |
             \ Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'itchyny/lightline.vim'
 Plug 'ryanoasis/vim-devicons'
 Plug 'ap/vim-buftabline'
-Plug 'arcticicestudio/nord-vim'
+" Plug 'arcticicestudio/nord-vim'
 Plug 'luochen1990/rainbow'
 Plug 'tpope/vim-surround'
 Plug 'SirVer/ultisnips'
@@ -136,6 +139,7 @@ Plug 'phanviet/vim-monokai-pro'
 Plug 'ghifarit53/tokyonight-vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'tpope/vim-commentary'
 
 call plug#end()
 
