@@ -1,0 +1,4885 @@
+# Vim 9.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0/full size
+
+# Último Sustitución Patrón de búsqueda:
+~MSle0~&computerPoints
+
+# Última cadena de sustitución:
+$compTotalPoints
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q
+|2,0,1725918868,,"q"
+:w
+|2,0,1725918829,,"w"
+:q!
+|2,0,1725916424,,"q!"
+:wq
+|2,0,1725914576,,"wq"
+:W
+|2,0,1725136532,,"W"
+:%s/computerPoints/compTotalPoints/g
+|2,0,1725029625,,"%s/computerPoints/compTotalPoints/g"
+:%s/userPoints/userTotalPoints/g
+|2,0,1725029594,,"%s/userPoints/userTotalPoints/g"
+:Wq
+|2,0,1724266224,,"Wq"
+:%s/yearlyExpenses/expenses/g
+|2,0,1724265504,,"%s/yearlyExpenses/expenses/g"
+:%s/yearlyGrossProfit/grossProfit/g
+|2,0,1724265444,,"%s/yearlyGrossProfit/grossProfit/g"
+:%s/numberScores/arrayLength
+|2,0,1723913397,,"%s/numberScores/arrayLength"
+:e
+|2,0,1723840149,,"e"
+:%s/var/var1/g
+|2,0,1722613534,,"%s/var/var1/g"
+:a
+|2,0,1720225500,,"a"
+:%s/divider/sum/g
+|2,0,1720205924,,"%s/divider/sum/g"
+:%s/acummulator/divider/g
+|2,0,1720205869,,"%s/acummulator/divider/g"
+:%s/acumulator/acummulator
+|2,0,1720205833,,"%s/acumulator/acummulator"
+:%s/evenly/acumulator
+|2,0,1720205802,,"%s/evenly/acumulator"
+:%s/initial/number/g
+|2,0,1720205622,,"%s/initial/number/g"
+:source ~/.vimrc
+|2,0,1719423107,,"source ~/.vimrc"
+:PlugInstall
+|2,0,1719422310,,"PlugInstall"
+:'<,'>gc
+|2,0,1719421896,,"'<,'>gc"
+:ysiw]
+|2,0,1719421714,,"ysiw]"
+:cs"
+|2,0,1719421668,,"cs\""
+:'<,'>cs
+|2,0,1719421655,,"'<,'>cs"
+:'<,'>cs"
+|2,0,1719421492,,"'<,'>cs\""
+:%s/number1/number/g
+|2,0,1719341497,,"%s/number1/number/g"
+:%s/userEvenNumber/userNumber/g
+|2,0,1719259044,,"%s/userEvenNumber/userNumber/g"
+:%s/userEventNumber/userNumber/g
+|2,0,1719259030,,"%s/userEventNumber/userNumber/g"
+:Split
+|2,0,1718217033,,"Split"
+:Snippets
+|2,0,1717435352,,"Snippets"
+:Files
+|2,0,1717435325,,"Files"
+:Lines
+|2,0,1717435292,,"Lines"
+:fzf
+|2,0,1717434932,,"fzf"
+:help UltiSnips
+|2,0,1717434870,,"help UltiSnips"
+:Util-snnipets
+|2,0,1717434831,,"Util-snnipets"
+:help
+|2,0,1717434798,,"help"
+:snippets
+|2,0,1717434645,,"snippets"
+:Snippeds
+|2,0,1717434632,,"Snippeds"
+:CocInstall coc-docker
+|2,0,1717246290,,"CocInstall coc-docker"
+:CocInstall coc-cssmodules
+|2,0,1717246222,,"CocInstall coc-cssmodules"
+:Q
+|2,0,1717082043,,"Q"
+:m +14
+|2,0,1717001977,,"m +14"
+:m 14
+|2,0,1717001963,,"m 14"
+:CocInstall coc-pairs
+|2,0,1716996131,,"CocInstall coc-pairs"
+:CocInstall coc-highlight
+|2,0,1716990287,,"CocInstall coc-highlight"
+:CocInstall coc-emmet
+|2,0,1716990168,,"CocInstall coc-emmet"
+:CocInstall cocsql
+|2,0,1716990674,,"CocInstall cocsql"
+:CocInstall sql
+|2,0,1716990654,,"CocInstall sql"
+:CocInstall coc-spell-checker
+|2,0,1716990598,,"CocInstall coc-spell-checker"
+:CocConfig
+|2,0,1716990408,,"CocConfig"
+:split
+|2,0,1716986730,,"split"
+:q\
+|2,0,1716943761,,"q\\"
+:verbose imap <leader>
+|2,0,1716942603,,"verbose imap <leader>"
+:verbose imap <silent>
+|2,0,1716942552,,"verbose imap <silent>"
+:CocInstall coc-jedi
+|2,0,1716942681,,"CocInstall coc-jedi"
+:keys
+|2,0,1716942507,,"keys"
+:leader
+|2,0,1716942502,,"leader"
+:verbose imap <TAB>
+|2,0,1716938891,,"verbose imap <TAB>"
+:verbose imap<TAB>
+|2,0,1716937588,,"verbose imap<TAB>"
+:plugInstall
+|2,0,1716935852,,"plugInstall"
+:CocInstall coc-css
+|2,0,1716936728,,"CocInstall coc-css"
+:CocInstall coc-html
+|2,0,1716936655,,"CocInstall coc-html"
+:CocInstall coc-markdownlint
+|2,0,1716936580,,"CocInstall coc-markdownlint"
+:CocInstall coc-rust-analyzer
+|2,0,1716936481,,"CocInstall coc-rust-analyzer"
+:CocInstall coc-tsserver
+|2,0,1716936411,,"CocInstall coc-tsserver"
+:CocInstall coc-java
+|2,0,1716936337,,"CocInstall coc-java"
+:echo has("python3")
+|2,0,1716919208,,"echo has(\"python3\")"
+:ALEGoToDefinition
+|2,0,1716918400,,"ALEGoToDefinition"
+:ALEgetUser
+|2,0,1716918384,,"ALEgetUser"
+:wq!
+|2,0,1687388992,,"wq!"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+? computerPoints
+|2,1,1725029625,,"computerPoints"
+? userPoints
+|2,1,1725029594,,"userPoints"
+? yearlyExpenses
+|2,1,1724265504,,"yearlyExpenses"
+? yearlyGrossProfit
+|2,1,1724265444,,"yearlyGrossProfit"
+? numberScores
+|2,1,1723913397,,"numberScores"
+? var
+|2,1,1722613534,,"var"
+? divider
+|2,1,1720205924,,"divider"
+? acummulator
+|2,1,1720205869,,"acummulator"
+? acumulator
+|2,1,1720205833,,"acumulator"
+? evenly
+|2,1,1720205802,,"evenly"
+? initial
+|2,1,1720205622,,"initial"
+? number1
+|2,1,1719341497,,"number1"
+? userEvenNumber
+|2,1,1719259044,,"userEvenNumber"
+? userEventNumber
+|2,1,1719259030,,"userEventNumber"
+?/full size
+|2,1,1716472952,47,"full size"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de depuración (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	LINE	0
+	        System.out.println(userChar);
+|3,0,0,1,1,0,1725918595,"        System.out.println(userChar);"
+"1	LINE	0
+	        System.out.println(userChar);
+|3,0,1,1,1,0,1725918155,"        System.out.println(userChar);"
+"2	LINE	0
+	
+|3,0,2,1,1,0,1725917942,""
+"3	LINE	0
+	        usrChar = CharAt(input.nextLine());
+|3,0,3,1,1,0,1725917913,"        usrChar = CharAt(input.nextLine());"
+"4	LINE	0
+	        usrString = input.nextLine();
+|3,0,4,1,1,0,1725917733,"        usrString = input.nextLine();"
+"5	LINE	0
+	        String usrString;
+|3,0,5,1,1,0,1725917732,"        String usrString;"
+"6	LINE	0
+	
+|3,0,6,1,1,0,1725917098,""
+"7	LINE	0
+	
+|3,0,7,1,1,0,1725915379,""
+"8	LINE	0
+	        }
+|3,0,8,1,1,0,1725915313,"        }"
+"9	LINE	0
+	        {
+|3,0,9,1,1,0,1725915312,"        {"
+""-	CHAR	0
+	)
+|3,1,36,0,1,0,1725918807,")"
+
+# variables globales:
+
+# Marcas en el archivo:
+'0  18  29  ~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java
+|4,48,18,29,1725918868,"~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java"
+'1  9  24  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,49,9,24,1725916424,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+'2  40  16  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,50,40,16,1725914576,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+'3  14  16  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,51,14,16,1725914576,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+'4  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,52,1,0,1725913073,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+'5  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,53,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+'6  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,54,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+'7  48  4  ~/OneDrive/alex/learning/book_java/6-looping/carlys_event/Event.java
+|4,55,48,4,1725911685,"~/OneDrive/alex/learning/book_java/6-looping/carlys_event/Event.java"
+'8  1  0  ~/OneDrive/alex/learning/book_java/6-looping/carlys_event/EventDemo.java
+|4,56,1,0,1725911680,"~/OneDrive/alex/learning/book_java/6-looping/carlys_event/EventDemo.java"
+'9  1  0  ~/OneDrive/alex/learning/book_java/6-looping/carlys_event/Event.java
+|4,57,1,0,1725902168,"~/OneDrive/alex/learning/book_java/6-looping/carlys_event/Event.java"
+
+# Lista de saltos (el más reciente va primero):
+-'  18  29  ~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java
+|4,39,18,29,1725918868,"~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java"
+-'  32  0  ~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java
+|4,39,32,0,1725917195,"~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java"
+-'  20  0  ~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java
+|4,39,20,0,1725917096,"~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java"
+-'  33  0  ~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java
+|4,39,33,0,1725917078,"~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java
+|4,39,1,0,1725917059,"~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java"
+-'  9  24  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,9,24,1725916424,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  9  24  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,9,24,1725916424,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  6  22  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,6,22,1725915663,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  6  22  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,6,22,1725915663,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  5  8  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,5,8,1725915662,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  5  8  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,5,8,1725915662,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  24  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,24,0,1725915377,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  24  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,24,0,1725915377,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  18  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,18,0,1725915293,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  18  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,18,0,1725915293,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  25  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,25,0,1725915268,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  25  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,25,0,1725915268,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  26  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,26,0,1725915172,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  26  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,26,0,1725915172,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  11  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,11,0,1725915104,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  11  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,11,0,1725915104,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  27  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,27,0,1725915035,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  27  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,27,0,1725915035,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,1,0,1725915024,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,1,0,1725915024,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  40  16  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,40,16,1725914576,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  14  16  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,14,16,1725914576,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  40  16  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,40,16,1725914576,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  14  16  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,14,16,1725914576,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  44  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,44,0,1725914155,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  18  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,18,0,1725914155,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  44  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,44,0,1725914155,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  18  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,18,0,1725914155,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  45  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,45,0,1725914138,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  19  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,19,0,1725914138,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  45  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,45,0,1725914138,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  19  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,19,0,1725914138,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,1,0,1725914100,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+|4,39,1,0,1725914100,"~/OneDrive/alex/learning/book_java/7-strings/Test.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,1,0,1725913073,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,1,0,1725913073,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,1,0,1725913073,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,1,0,1725913073,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,1,0,1725913073,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,1,0,1725913073,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,1,0,1725913073,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,1,0,1725913073,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  17  4  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,17,4,1725913070,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  17  4  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,17,4,1725913070,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  17  4  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,17,4,1725913070,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  17  4  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,17,4,1725913070,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  17  4  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,17,4,1725913070,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  17  4  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,17,4,1725913070,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  17  4  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,17,4,1725913070,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  17  4  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,17,4,1725913070,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  37  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,37,0,1725912678,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  37  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,37,0,1725912678,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  37  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,37,0,1725912678,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  37  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,37,0,1725912678,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  37  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,37,0,1725912678,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  37  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,37,0,1725912678,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  37  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,37,0,1725912678,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  37  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,37,0,1725912678,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  63  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,63,0,1725912256,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  63  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,63,0,1725912256,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  63  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,63,0,1725912256,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  63  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,63,0,1725912256,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  63  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,63,0,1725912256,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  63  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,63,0,1725912256,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  63  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,63,0,1725912256,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  63  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+|4,39,63,0,1725912256,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+|4,39,1,0,1725911951,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+-'  1  0  ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+|4,39,1,0,1725911911,"~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/OneDrive/alex/learning/book_java/7-strings/CharacterInfo.java
+	*	1725918829	0
+	"	18	29
+	^	18	31
+	.	18	0
+	+	1	26
+	+	9	1
+	+	10	42
+	+	11	5
+	+	20	0
+	+	1	0
+	+	7	0
+	+	1	2
+	+	2	31
+	+	3	20
+	+	4	18
+	+	6	24
+	+	20	5
+	+	22	39
+	+	23	5
+	+	24	21
+	+	27	72
+	+	31	31
+	+	31	22
+	+	31	25
+	+	31	26
+	+	26	24
+	+	31	24
+	+	31	33
+	+	26	0
+	+	31	0
+	+	25	24
+	+	31	0
+	+	25	8
+	+	31	0
+	+	29	37
+	+	30	17
+	+	12	41
+	+	20	0
+	+	28	0
+	+	13	63
+	+	15	43
+	+	16	56
+	+	17	8
+	+	18	40
+	+	19	34
+	+	16	29
+	+	18	0
+
+> ~/OneDrive/alex/learning/book_java/7-strings/Test.java
+	*	1725916053	0
+	"	9	24
+	^	9	25
+	.	9	24
+	+	1	25
+	+	29	17
+	+	30	1
+	+	31	42
+	+	32	5
+	+	33	35
+	+	34	21
+	+	36	47
+	+	37	56
+	+	38	33
+	+	40	20
+	+	40	31
+	+	41	61
+	+	44	0
+	+	42	12
+	+	43	67
+	+	1	0
+	+	40	16
+	+	1	17
+	+	2	1
+	+	3	42
+	+	4	5
+	+	26	0
+	+	5	25
+	+	6	25
+	+	9	25
+	+	10	9
+	+	10	41
+	+	11	42
+	+	11	0
+	+	10	41
+	+	11	38
+	+	11	35
+	+	11	9
+	+	11	12
+	+	15	9
+	+	15	0
+	+	26	0
+	+	9	18
+	+	12	9
+	+	13	29
+	+	14	13
+	+	18	0
+	+	15	0
+	+	18	0
+	+	15	45
+	+	11	0
+	+	10	0
+	+	11	0
+	+	15	85
+	+	16	42
+	+	17	39
+	+	19	16
+	+	20	13
+	+	24	0
+	+	15	48
+	+	21	81
+	+	6	22
+	+	5	20
+	+	6	0
+	+	6	25
+	+	7	49
+	+	9	24
+
+> ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/RentalDemo.java
+	*	1725913071	0
+	"	1	0
+	^	25	27
+	.	38	0
+	+	4	10
+	+	14	29
+	+	16	24
+	+	17	29
+	+	54	34
+	+	56	45
+	+	57	9
+	+	58	50
+	+	58	49
+	+	63	28
+	+	63	0
+	+	59	28
+	+	60	0
+	+	60	84
+	+	61	69
+	+	62	37
+	+	38	0
+	+	14	40
+	+	23	59
+	+	27	51
+	+	28	9
+	+	37	0
+	+	29	41
+	+	37	0
+	+	14	39
+	+	30	49
+	+	31	27
+	+	29	26
+	+	31	45
+	+	33	60
+	+	34	58
+	+	36	45
+	+	37	0
+	+	21	0
+	+	22	0
+	+	24	47
+	+	25	0
+	+	38	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/Rental.java
+	*	1725911929	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/rental_sammy/SammysRentalPriceWithMethods.java
+	*	1725911881	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/carlys_event/EventDemo.java
+	*	1725911678	0
+	"	1	0
+	.	28	0
+	+	38	0
+	+	46	82
+	+	50	49
+	+	51	9
+	+	57	0
+	+	48	0
+	+	52	49
+	+	57	0
+	+	53	86
+	+	55	78
+	+	53	28
+	+	54	0
+	+	55	16
+	+	48	16
+	+	56	11
+	+	47	0
+	+	13	38
+	+	16	57
+	+	20	49
+	+	21	9
+	+	30	0
+	+	25	37
+	+	16	14
+	+	25	19
+	+	16	54
+	+	30	0
+	+	30	19
+	+	30	21
+	+	30	22
+	+	25	22
+	+	30	22
+	+	30	0
+	+	16	19
+	+	25	17
+	+	30	0
+	+	14	26
+	+	15	19
+	+	22	49
+	+	23	38
+	+	26	44
+	+	24	0
+	+	27	36
+	+	29	43
+	+	29	36
+	+	16	63
+	+	18	0
+	+	31	0
+	+	30	0
+	+	31	0
+	+	55	19
+	+	30	0
+	+	31	0
+	+	65	0
+	+	61	0
+	+	68	0
+	+	14	28
+	+	15	18
+	+	16	19
+	+	4	13
+	+	26	0
+	+	22	21
+	+	26	0
+	+	29	34
+	+	29	13
+	+	29	63
+	+	29	21
+	+	29	28
+	+	29	19
+	+	29	49
+	+	29	0
+	+	22	0
+	+	29	55
+	+	28	0
+	+	29	0
+	+	28	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/carlys_event/Event.java
+	*	1725911416	0
+	"	48	4
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Count21.java
+	*	1725900266	0
+	"	9	0
+	^	24	21
+	.	24	20
+	+	1	2
+	+	2	25
+	+	3	20
+	+	4	18
+	+	5	2
+	+	8	20
+	+	9	1
+	+	42	0
+	+	6	25
+	+	10	42
+	+	11	5
+	+	13	5
+	+	27	36
+	+	28	5
+	+	29	21
+	+	40	23
+	+	30	47
+	+	31	92
+	+	32	35
+	+	34	43
+	+	35	9
+	+	36	45
+	+	37	11
+	+	38	38
+	+	12	32
+	+	13	5
+	+	15	43
+	+	16	5
+	+	25	0
+	+	15	54
+	+	17	30
+	+	18	21
+	+	25	12
+	+	25	0
+	+	25	9
+	+	25	0
+	+	25	34
+	+	25	24
+	+	25	0
+	+	19	31
+	+	20	21
+	+	21	28
+	+	19	28
+	+	22	21
+	+	23	12
+	+	24	20
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Count
+	*	1725881175	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/pig_dice_game/PigDiceGame.java
+	*	1725830102	0
+	"	1	0
+	^	79	0
+	.	27	0
+	+	85	0
+	+	6	0
+	+	5	29
+	+	16	22
+	+	17	22
+	+	18	69
+	+	19	9
+	+	38	0
+	+	20	22
+	+	29	22
+	+	59	24
+	+	59	0
+	+	22	42
+	+	23	13
+	+	26	67
+	+	28	21
+	+	31	42
+	+	32	13
+	+	35	73
+	+	37	21
+	+	59	24
+	+	131	0
+	+	59	0
+	+	24	0
+	+	24	39
+	+	34	43
+	+	28	0
+	+	25	0
+	+	33	0
+	+	24	50
+	+	11	30
+	+	12	83
+	+	14	43
+	+	15	0
+	+	12	25
+	+	13	24
+	+	12	82
+	+	6	39
+	+	110	91
+	+	110	66
+	+	182	96
+	+	182	0
+	+	110	0
+	+	21	66
+	+	30	72
+	+	21	72
+	+	30	78
+	+	21	28
+	+	30	28
+	+	110	84
+	+	182	89
+	+	21	29
+	+	30	29
+	+	59	69
+	+	131	69
+	+	59	64
+	+	131	0
+	+	59	0
+	+	47	64
+	+	59	41
+	+	59	55
+	+	118	62
+	+	131	41
+	+	131	55
+	+	83	75
+	+	155	75
+	+	191	32
+	+	193	34
+	+	192	19
+	+	76	50
+	+	148	51
+	+	59	38
+	+	78	48
+	+	80	49
+	+	82	38
+	+	82	23
+	+	83	54
+	+	84	0
+	+	131	38
+	+	150	48
+	+	152	49
+	+	154	39
+	+	154	23
+	+	155	59
+	+	156	0
+	+	82	0
+	+	81	29
+	+	154	0
+	+	153	29
+	+	25	73
+	+	34	73
+	+	42	22
+	+	45	74
+	+	53	8
+	+	53	37
+	+	42	0
+	+	59	3
+	+	28	0
+	+	27	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/dice/PigDiceGame.java
+	*	1725825990	0
+	"	13	0
+	^	105	0
+	.	105	0
+	+	45	43
+	+	42	81
+	+	45	8
+	+	41	40
+	+	107	34
+	+	107	19
+	+	107	29
+	+	109	20
+	+	109	35
+	+	109	0
+	+	107	0
+	+	109	0
+	+	107	0
+	+	45	39
+	+	45	21
+	+	45	8
+	+	45	47
+	+	45	8
+	+	45	21
+	+	45	37
+	+	45	21
+	+	45	8
+	+	45	35
+	+	45	8
+	+	45	0
+	+	37	0
+	+	33	0
+	+	37	29
+	+	37	0
+	+	37	45
+	+	37	9
+	+	37	0
+	+	33	41
+	+	37	0
+	+	38	20
+	+	39	20
+	+	38	33
+	+	39	33
+	+	43	45
+	+	43	9
+	+	43	40
+	+	43	9
+	+	43	58
+	+	44	59
+	+	43	25
+	+	43	0
+	+	43	41
+	+	43	42
+	+	43	22
+	+	43	42
+	+	43	21
+	+	67	71
+	+	138	72
+	+	18	0
+	+	41	0
+	+	43	0
+	+	41	0
+	+	37	40
+	+	29	11
+	+	23	27
+	+	24	26
+	+	37	40
+	+	33	11
+	+	37	63
+	+	25	83
+	+	26	9
+	+	35	0
+	+	29	0
+	+	33	0
+	+	35	0
+	+	37	0
+	+	27	44
+	+	29	15
+	+	33	44
+	+	34	15
+	+	33	81
+	+	28	13
+	+	32	0
+	+	29	49
+	+	30	41
+	+	31	25
+	+	107	45
+	+	109	0
+	+	105	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/dice/Method.java
+	*	1725119106	0
+	"	8	16
+	^	8	17
+	.	8	16
+	+	1	19
+	+	2	1
+	+	3	0
+	+	11	0
+	+	3	42
+	+	5	76
+	+	7	9
+	+	10	0
+	+	5	67
+	+	6	43
+	+	7	9
+	+	7	29
+	+	6	43
+	+	8	35
+	+	9	0
+	+	8	16
+
+> ~/OneDrive/alex/learning/book_java/6-looping/dice/Die.java
+	*	1724966203	0
+	"	8	4
+
+> ~/OneDrive/alex/learning/book_java/6-looping/dice/TwoDice.java
+	*	1724961415	0
+	"	1	0
+	^	36	27
+	.	36	26
+	+	27	70
+	+	28	26
+	+	35	70
+	+	36	26
+
+> ~/OneDrive/alex/learning/book_java/6-looping/dice/FiveDice.java
+	*	1724961397	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/dice/FiveDice2.java
+	*	1724960975	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/DiagonalOs.java
+	*	1724960625	0
+	"	1	0
+	^	15	20
+	.	15	19
+	+	55	34
+	+	55	0
+	+	55	43
+	+	55	17
+	+	55	0
+	+	55	44
+	+	55	24
+	+	55	0
+	+	55	40
+	+	55	24
+	+	55	0
+	+	39	22
+	+	47	37
+	+	48	9
+	+	49	38
+	+	50	13
+	+	53	36
+	+	53	32
+	+	47	36
+	+	49	0
+	+	47	0
+	+	56	1
+	+	57	1
+	+	56	0
+	+	57	0
+	+	53	32
+	+	39	17
+	+	40	29
+	+	43	18
+	+	44	23
+	+	45	22
+	+	43	16
+	+	53	37
+	+	53	38
+	+	42	0
+	+	40	18
+	+	44	13
+	+	53	36
+	+	43	17
+	+	45	20
+	+	40	23
+	+	41	20
+	+	45	21
+	+	47	0
+	+	53	0
+	+	49	0
+	+	51	0
+	+	50	0
+	+	51	0
+	+	52	0
+	+	1	2
+	+	2	28
+	+	3	20
+	+	4	19
+	+	5	17
+	+	6	18
+	+	8	23
+	+	9	1
+	+	10	42
+	+	11	5
+	+	29	0
+	+	12	28
+	+	29	0
+	+	12	13
+	+	29	0
+	+	13	27
+	+	29	0
+	+	12	22
+	+	13	27
+	+	15	22
+	+	16	20
+	+	17	21
+	+	19	31
+	+	20	9
+	+	22	43
+	+	23	13
+	+	25	44
+	+	26	24
+	+	25	47
+	+	26	0
+	+	19	23
+	+	22	30
+	+	25	0
+	+	21	35
+	+	25	0
+	+	25	35
+	+	21	36
+	+	26	0
+	+	21	0
+	+	23	0
+	+	25	0
+	+	21	0
+	+	25	0
+	+	21	29
+	+	24	34
+	+	29	0
+	+	28	0
+	+	25	41
+	+	21	38
+	+	15	19
+
+> ~/OneDrive/alex/learning/book_java/6-looping/dice/TwoDice3.java
+	*	1724956272	0
+	"	1	0
+	^	38	16
+	.	39	0
+	+	20	9
+	+	40	0
+	+	14	30
+	+	21	31
+	+	23	30
+	+	40	49
+	+	40	31
+	+	40	18
+	+	13	31
+	+	26	51
+	+	32	36
+	+	34	13
+	+	31	0
+	+	34	43
+	+	40	18
+	+	40	0
+	+	31	0
+	+	31	16
+	+	32	51
+	+	40	0
+	+	26	39
+	+	32	13
+	+	32	0
+	+	26	0
+	+	26	12
+	+	32	0
+	+	32	15
+	+	31	0
+	+	34	0
+	+	31	0
+	+	32	0
+	+	36	16
+	+	38	54
+	+	34	46
+	+	27	64
+	+	34	13
+	+	36	0
+	+	34	0
+	+	36	0
+	+	34	0
+	+	36	0
+	+	38	60
+	+	43	0
+	+	26	21
+	+	13	58
+	+	26	53
+	+	17	0
+	+	28	88
+	+	27	74
+	+	29	80
+	+	30	74
+	+	31	0
+	+	30	82
+	+	17	0
+	+	18	0
+	+	26	0
+	+	17	0
+	+	26	42
+	+	26	0
+	+	17	0
+	+	18	0
+	+	21	0
+	+	23	35
+	+	23	57
+	+	24	57
+	+	25	57
+	+	26	0
+	+	43	0
+	+	14	20
+	+	21	12
+	+	23	12
+	+	21	12
+	+	22	12
+	+	13	54
+	+	23	26
+	+	24	26
+	+	25	22
+	+	22	23
+	+	21	23
+	+	29	62
+	+	31	0
+	+	35	21
+	+	33	13
+	+	37	0
+	+	36	12
+	+	37	12
+	+	38	15
+	+	39	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	39	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/dice/FiveDice
+	*	1724948834	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/RandomGuess3.java
+	*	1724947921	0
+	"	1	0
+	^	45	51
+	.	31	36
+	+	8	24
+	+	4	13
+	+	2	24
+	+	50	12
+	+	50	9
+	+	50	0
+	+	38	28
+	+	39	75
+	+	40	55
+	+	50	0
+	+	19	8
+	+	19	39
+	+	21	9
+	+	22	0
+	+	29	11
+	+	25	15
+	+	31	15
+	+	23	0
+	+	12	40
+	+	19	17
+	+	34	22
+	+	19	0
+	+	37	0
+	+	21	0
+	+	22	0
+	+	37	0
+	+	34	0
+	+	37	0
+	+	19	0
+	+	35	0
+	+	40	0
+	+	35	9
+	+	36	0
+	+	37	51
+	+	40	59
+	+	41	12
+	+	42	38
+	+	43	0
+	+	50	0
+	+	45	48
+	+	50	0
+	+	45	55
+	+	46	8
+	+	47	0
+	+	28	15
+	+	24	13
+	+	27	0
+	+	25	76
+	+	26	41
+	+	30	13
+	+	33	0
+	+	31	74
+	+	32	41
+	+	56	0
+	+	13	0
+	+	17	0
+	+	13	0
+	+	17	0
+	+	13	0
+	+	17	0
+	+	13	0
+	+	17	0
+	+	13	0
+	+	17	0
+	+	13	0
+	+	17	17
+	+	13	0
+	+	54	25
+	+	17	0
+	+	18	31
+	+	50	0
+	+	48	0
+	+	18	0
+	+	14	0
+	+	13	0
+	+	17	0
+	+	14	8
+	+	13	20
+	+	65	0
+	+	14	66
+	+	18	0
+	+	13	0
+	+	14	0
+	+	19	16
+	+	45	50
+	+	25	36
+	+	31	36
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Quiz2.java
+	*	1724942661	0
+	"	1	0
+	^	207	41
+	.	214	0
+	+	84	16
+	+	85	16
+	+	86	16
+	+	87	16
+	+	88	16
+	+	89	15
+	+	91	9
+	+	93	24
+	+	94	0
+	+	95	0
+	+	135	0
+	+	174	0
+	+	102	0
+	+	136	0
+	+	138	22
+	+	175	0
+	+	102	28
+	+	105	42
+	+	107	46
+	+	115	14
+	+	116	38
+	+	131	0
+	+	134	0
+	+	77	0
+	+	38	0
+	+	135	0
+	+	116	38
+	+	118	31
+	+	119	9
+	+	130	0
+	+	120	0
+	+	130	0
+	+	132	0
+	+	134	0
+	+	132	26
+	+	121	11
+	+	122	15
+	+	123	16
+	+	124	16
+	+	125	16
+	+	126	16
+	+	127	16
+	+	128	15
+	+	90	39
+	+	99	22
+	+	129	41
+	+	141	27
+	+	144	41
+	+	146	46
+	+	173	0
+	+	174	0
+	+	155	36
+	+	173	0
+	+	155	37
+	+	157	30
+	+	158	9
+	+	169	0
+	+	159	0
+	+	170	8
+	+	171	25
+	+	160	11
+	+	161	15
+	+	162	16
+	+	163	16
+	+	164	16
+	+	165	16
+	+	166	16
+	+	167	18
+	+	168	40
+	+	177	22
+	+	212	0
+	+	215	0
+	+	209	0
+	+	212	0
+	+	180	27
+	+	183	41
+	+	185	46
+	+	194	17
+	+	212	8
+	+	210	20
+	+	212	8
+	+	194	37
+	+	196	30
+	+	197	9
+	+	208	0
+	+	210	25
+	+	208	0
+	+	198	0
+	+	199	11
+	+	200	15
+	+	201	16
+	+	202	16
+	+	203	16
+	+	204	16
+	+	205	16
+	+	206	18
+	+	207	40
+	+	215	0
+	+	1	0
+	+	214	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Quiz.java
+	*	1724782840	0
+	"	1	0
+	^	221	27
+	.	221	0
+	+	65	61
+	+	74	0
+	+	120	0
+	+	165	0
+	+	210	0
+	+	257	0
+	+	80	31
+	+	84	0
+	+	75	0
+	+	300	0
+	+	76	0
+	+	301	24
+	+	107	21
+	+	80	35
+	+	81	12
+	+	82	64
+	+	81	0
+	+	84	0
+	+	87	0
+	+	121	0
+	+	131	0
+	+	130	0
+	+	122	0
+	+	123	21
+	+	124	25
+	+	125	27
+	+	126	25
+	+	133	0
+	+	82	38
+	+	128	38
+	+	110	0
+	+	155	0
+	+	166	0
+	+	167	0
+	+	168	21
+	+	169	26
+	+	170	25
+	+	171	25
+	+	178	0
+	+	129	12
+	+	83	12
+	+	174	12
+	+	200	0
+	+	210	26
+	+	211	0
+	+	212	0
+	+	213	0
+	+	216	27
+	+	217	0
+	+	216	28
+	+	223	0
+	+	247	0
+	+	291	40
+	+	292	0
+	+	258	0
+	+	259	0
+	+	260	33
+	+	261	43
+	+	262	39
+	+	263	32
+	+	269	8
+	+	49	26
+	+	55	28
+	+	35	21
+	+	51	25
+	+	40	22
+	+	59	0
+	+	65	0
+	+	59	24
+	+	61	50
+	+	62	35
+	+	61	55
+	+	62	50
+	+	61	31
+	+	62	57
+	+	63	58
+	+	65	0
+	+	64	12
+	+	56	9
+	+	58	49
+	+	63	61
+	+	41	0
+	+	59	8
+	+	58	64
+	+	300	0
+	+	74	36
+	+	120	34
+	+	165	36
+	+	210	32
+	+	246	0
+	+	210	43
+	+	213	42
+	+	257	33
+	+	74	68
+	+	79	28
+	+	90	81
+	+	94	81
+	+	102	81
+	+	77	22
+	+	221	0
+
+> /usr/share/vim/vim91/doc/help.txt
+	*	1724780320	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/TestScoreStatistics.java
+	*	1724773333	0
+	"	1	0
+	^	58	38
+	.	58	37
+	+	30	37
+	+	85	0
+	+	36	36
+	+	37	9
+	+	71	0
+	+	73	0
+	+	35	0
+	+	47	0
+	+	37	0
+	+	47	0
+	+	38	0
+	+	39	13
+	+	68	0
+	+	67	0
+	+	35	0
+	+	8	0
+	+	47	44
+	+	38	53
+	+	56	61
+	+	47	68
+	+	56	65
+	+	67	0
+	+	47	0
+	+	57	0
+	+	14	42
+	+	50	39
+	+	51	61
+	+	52	17
+	+	53	46
+	+	54	46
+	+	65	0
+	+	66	0
+	+	65	45
+	+	59	18
+	+	62	44
+	+	63	26
+	+	50	0
+	+	56	0
+	+	52	0
+	+	56	0
+	+	56	68
+	+	59	0
+	+	65	0
+	+	61	0
+	+	65	0
+	+	65	57
+	+	47	93
+	+	38	0
+	+	47	0
+	+	38	0
+	+	47	0
+	+	39	0
+	+	48	0
+	+	14	56
+	+	41	51
+	+	47	16
+	+	47	93
+	+	47	0
+	+	48	0
+	+	47	0
+	+	5	0
+	+	38	0
+	+	36	59
+	+	38	50
+	+	67	58
+	+	73	5
+	+	75	63
+	+	76	43
+	+	84	0
+	+	77	5
+	+	78	22
+	+	79	47
+	+	80	93
+	+	81	36
+	+	82	24
+	+	75	16
+	+	14	50
+	+	17	47
+	+	21	46
+	+	30	37
+	+	14	74
+	+	41	0
+	+	19	0
+	+	17	0
+	+	62	51
+	+	67	52
+	+	41	32
+	+	42	61
+	+	43	17
+	+	44	45
+	+	45	37
+	+	40	31
+	+	49	37
+	+	58	37
+
+> ~/OneDrive/alex/learning/book_java/6-looping/quiz/AppQuiz.java
+	*	1724773013	0
+	"	26	0
+	^	30	20
+	.	30	19
+	+	30	19
+
+> ~/OneDrive/alex/learning/book_java/6-looping/quiz/Quiz.java
+	*	1724771470	0
+	"	15	35
+	.	15	35
+	+	1	2
+	+	2	22
+	+	3	20
+	+	4	18
+	+	6	17
+	+	7	1
+	+	18	0
+	+	8	27
+	+	9	17
+	+	8	27
+	+	9	27
+	+	11	63
+	+	12	5
+	+	13	19
+	+	13	28
+	+	16	26
+	+	11	73
+	+	14	28
+	+	15	37
+	+	15	35
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Purchase/Purchase.java
+	*	1724701385	0
+	"	1	0
+	^	17	16
+	.	17	15
+	+	1	2
+	+	2	22
+	+	3	5
+	+	2	11
+	+	3	20
+	+	4	18
+	+	6	21
+	+	7	1
+	+	8	30
+	+	10	30
+	+	11	29
+	+	24	26
+	+	25	51
+	+	26	5
+	+	27	42
+	+	28	5
+	+	30	48
+	+	31	5
+	+	32	36
+	+	34	5
+	+	36	32
+	+	37	5
+	+	38	33
+	+	39	5
+	+	41	33
+	+	42	5
+	+	43	30
+	+	44	5
+	+	46	32
+	+	47	5
+	+	48	29
+	+	8	17
+	+	36	28
+	+	11	29
+	+	13	26
+	+	13	47
+	+	13	5
+	+	13	43
+	+	13	39
+	+	33	39
+	+	13	5
+	+	13	21
+	+	14	40
+	+	15	5
+	+	22	0
+	+	16	24
+	+	17	42
+	+	18	0
+	+	17	43
+	+	18	59
+	+	19	56
+	+	20	48
+	+	30	58
+	+	32	0
+	+	33	41
+	+	22	0
+	+	21	0
+	+	19	50
+	+	13	0
+	+	17	15
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Purchase/CreatePurchase.java
+	*	1724701344	0
+	"	1	0
+	^	21	49
+	.	21	48
+	+	1	2
+	+	2	32
+	+	3	20
+	+	4	17
+	+	6	25
+	+	8	27
+	+	9	1
+	+	10	42
+	+	11	5
+	+	23	5
+	+	25	44
+	+	26	5
+	+	27	26
+	+	28	46
+	+	29	72
+	+	30	40
+	+	39	28
+	+	28	38
+	+	30	40
+	+	32	59
+	+	33	9
+	+	37	0
+	+	38	0
+	+	37	0
+	+	34	92
+	+	37	0
+	+	34	29
+	+	37	0
+	+	35	76
+	+	36	43
+	+	40	5
+	+	42	43
+	+	43	5
+	+	58	0
+	+	42	28
+	+	44	26
+	+	45	47
+	+	47	71
+	+	48	40
+	+	57	25
+	+	48	40
+	+	50	29
+	+	51	9
+	+	55	0
+	+	56	0
+	+	55	0
+	+	52	82
+	+	55	0
+	+	46	0
+	+	55	0
+	+	53	11
+	+	55	0
+	+	54	43
+	+	13	26
+	+	14	26
+	+	16	47
+	+	17	44
+	+	19	74
+	+	22	0
+	+	19	46
+	+	20	52
+	+	21	46
+	+	12	14
+	+	21	48
+
+> ~/OneDrive/alex/learning/book_java/6-looping/BarChart.java
+	*	1724688422	0
+	"	1	0
+	^	61	30
+	.	61	29
+	+	1	2
+	+	2	26
+	+	3	20
+	+	4	15
+	+	6	17
+	+	7	40
+	+	8	49
+	+	9	17
+	+	4	15
+	+	10	63
+	+	11	65
+	+	12	17
+	+	13	38
+	+	14	39
+	+	15	21
+	+	17	81
+	+	18	2
+	+	19	25
+	+	21	21
+	+	22	1
+	+	23	0
+	+	23	42
+	+	24	5
+	+	67	0
+	+	23	0
+	+	25	35
+	+	10	46
+	+	67	5
+	+	69	39
+	+	70	5
+	+	72	46
+	+	71	24
+	+	73	63
+	+	73	39
+	+	74	27
+	+	73	0
+	+	26	66
+	+	27	32
+	+	67	29
+	+	26	44
+	+	28	0
+	+	30	0
+	+	32	0
+	+	34	0
+	+	28	58
+	+	29	11
+	+	31	10
+	+	33	10
+	+	35	10
+	+	30	58
+	+	32	58
+	+	34	58
+	+	67	0
+	+	67	29
+	+	67	0
+	+	35	32
+	+	38	37
+	+	39	9
+	+	40	32
+	+	38	23
+	+	16	43
+	+	17	0
+	+	13	51
+	+	37	28
+	+	40	28
+	+	38	26
+	+	41	9
+	+	66	0
+	+	41	9
+	+	43	37
+	+	44	36
+	+	45	9
+	+	46	30
+	+	49	0
+	+	55	0
+	+	60	0
+	+	65	0
+	+	54	0
+	+	55	30
+	+	60	30
+	+	49	30
+	+	55	33
+	+	60	33
+	+	50	29
+	+	56	29
+	+	61	29
+
+> ~/OneDrive/alex/learning/book_java/6-looping/WhenProfitable.java
+	*	1724437780	0
+	"	1	0
+	^	15	47
+	.	15	0
+	+	70	39
+	+	71	39
+	+	72	39
+	+	74	39
+	+	70	39
+	+	38	39
+	+	80	9
+	+	79	26
+	+	79	81
+	+	79	0
+	+	80	0
+	+	17	30
+	+	77	29
+	+	78	37
+	+	82	8
+	+	82	0
+	+	82	82
+	+	20	29
+	+	82	86
+	+	20	21
+	+	82	0
+	+	81	0
+	+	78	35
+	+	23	0
+	+	20	30
+	+	20	29
+	+	31	53
+	+	31	64
+	+	32	33
+	+	35	33
+	+	33	17
+	+	36	0
+	+	35	34
+	+	34	29
+	+	31	49
+	+	39	55
+	+	40	61
+	+	41	51
+	+	21	29
+	+	41	58
+	+	59	63
+	+	61	33
+	+	62	17
+	+	65	0
+	+	18	105
+	+	22	29
+	+	63	58
+	+	64	36
+	+	67	38
+	+	67	17
+	+	67	36
+	+	73	64
+	+	68	0
+	+	63	52
+	+	68	0
+	+	67	16
+	+	49	59
+	+	46	13
+	+	47	39
+	+	49	60
+	+	50	35
+	+	49	34
+	+	48	34
+	+	54	34
+	+	50	67
+	+	51	62
+	+	53	36
+	+	55	58
+	+	56	64
+	+	57	59
+	+	58	0
+	+	77	71
+	+	67	0
+	+	68	0
+	+	67	0
+	+	66	19
+	+	31	53
+	+	39	67
+	+	40	63
+	+	23	20
+	+	24	15
+	+	20	21
+	+	21	16
+	+	22	20
+	+	23	20
+	+	24	21
+	+	20	22
+	+	18	0
+	+	20	0
+	+	31	0
+	+	18	0
+	+	18	62
+	+	18	0
+	+	18	37
+	+	31	25
+	+	15	49
+	+	77	81
+	+	15	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Population.java
+	*	1724437712	0
+	"	1	0
+	^	50	17
+	.	21	41
+	+	32	54
+	+	35	0
+	+	32	0
+	+	41	76
+	+	42	75
+	+	21	52
+	+	43	30
+	+	44	44
+	+	45	66
+	+	46	53
+	+	54	0
+	+	46	59
+	+	41	76
+	+	42	44
+	+	41	81
+	+	42	81
+	+	41	0
+	+	32	11
+	+	41	0
+	+	32	0
+	+	41	26
+	+	42	26
+	+	41	60
+	+	42	0
+	+	46	59
+	+	41	36
+	+	41	0
+	+	32	86
+	+	41	0
+	+	32	44
+	+	41	0
+	+	41	43
+	+	41	26
+	+	41	25
+	+	41	48
+	+	32	66
+	+	41	22
+	+	42	22
+	+	45	54
+	+	46	0
+	+	32	0
+	+	41	81
+	+	42	81
+	+	41	44
+	+	42	44
+	+	41	76
+	+	42	76
+	+	41	28
+	+	32	12
+	+	41	0
+	+	32	0
+	+	35	26
+	+	39	57
+	+	46	0
+	+	39	0
+	+	35	0
+	+	38	0
+	+	41	0
+	+	35	26
+	+	35	0
+	+	39	0
+	+	46	0
+	+	40	46
+	+	40	43
+	+	40	0
+	+	38	42
+	+	38	39
+	+	42	0
+	+	32	11
+	+	38	39
+	+	38	0
+	+	46	0
+	+	41	0
+	+	38	39
+	+	32	14
+	+	36	27
+	+	37	27
+	+	36	30
+	+	37	30
+	+	32	0
+	+	46	0
+	+	41	47
+	+	42	47
+	+	35	0
+	+	52	91
+	+	53	88
+	+	52	59
+	+	38	0
+	+	33	16
+	+	35	0
+	+	52	82
+	+	53	27
+	+	53	38
+	+	48	9
+	+	50	22
+	+	51	0
+	+	50	20
+	+	52	83
+	+	50	16
+	+	21	41
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Inspections.java
+	*	1724358693	0
+	"	1	0
+	^	86	0
+	.	86	0
+	+	70	0
+	+	64	39
+	+	70	39
+	+	53	36
+	+	59	36
+	+	65	36
+	+	71	36
+	+	54	89
+	+	60	89
+	+	66	89
+	+	72	89
+	+	54	76
+	+	60	63
+	+	54	67
+	+	60	67
+	+	54	80
+	+	60	80
+	+	66	77
+	+	72	77
+	+	91	0
+	+	80	29
+	+	87	0
+	+	30	49
+	+	30	75
+	+	38	0
+	+	27	53
+	+	39	13
+	+	40	13
+	+	41	13
+	+	42	12
+	+	39	23
+	+	40	23
+	+	41	23
+	+	42	23
+	+	39	26
+	+	40	26
+	+	41	26
+	+	42	26
+	+	39	27
+	+	40	27
+	+	41	27
+	+	42	27
+	+	39	30
+	+	40	30
+	+	41	30
+	+	42	30
+	+	52	38
+	+	58	38
+	+	64	38
+	+	70	38
+	+	82	36
+	+	82	13
+	+	82	62
+	+	77	0
+	+	87	96
+	+	43	26
+	+	82	0
+	+	77	0
+	+	82	12
+	+	77	0
+	+	78	0
+	+	82	0
+	+	80	29
+	+	82	33
+	+	82	50
+	+	87	39
+	+	82	24
+	+	29	14
+	+	87	75
+	+	82	0
+	+	87	60
+	+	83	0
+	+	84	0
+	+	85	0
+	+	83	20
+	+	84	22
+	+	83	23
+	+	82	23
+	+	85	22
+	+	83	33
+	+	84	35
+	+	85	34
+	+	88	44
+	+	89	44
+	+	90	44
+	+	88	78
+	+	89	80
+	+	90	79
+	+	43	0
+	+	82	68
+	+	83	68
+	+	84	70
+	+	85	69
+	+	83	0
+	+	84	0
+	+	85	0
+	+	1	0
+	+	81	0
+	+	86	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/RetirementGoal2.java
+	*	1724325979	0
+	"	1	0
+	^	22	0
+	.	22	0
+	+	19	18
+	+	23	21
+	+	13	35
+	+	19	12
+	+	23	18
+	+	33	18
+	+	19	15
+	+	14	46
+	+	39	82
+	+	23	0
+	+	33	0
+	+	33	24
+	+	19	20
+	+	33	77
+	+	14	49
+	+	20	12
+	+	14	38
+	+	20	40
+	+	33	53
+	+	33	20
+	+	33	0
+	+	33	24
+	+	33	0
+	+	20	23
+	+	33	80
+	+	33	21
+	+	33	52
+	+	33	0
+	+	24	80
+	+	39	87
+	+	24	0
+	+	33	39
+	+	33	65
+	+	33	13
+	+	33	0
+	+	24	0
+	+	20	0
+	+	14	46
+	+	19	24
+	+	33	51
+	+	20	23
+	+	14	0
+	+	19	23
+	+	23	20
+	+	33	0
+	+	14	40
+	+	20	15
+	+	19	14
+	+	33	51
+	+	39	77
+	+	60	24
+	+	62	14
+	+	65	0
+	+	71	43
+	+	33	40
+	+	33	34
+	+	20	18
+	+	19	18
+	+	20	34
+	+	23	20
+	+	33	0
+	+	33	58
+	+	33	0
+	+	33	51
+	+	20	34
+	+	33	50
+	+	33	0
+	+	23	0
+	+	33	0
+	+	24	25
+	+	24	54
+	+	24	0
+	+	33	29
+	+	20	18
+	+	33	0
+	+	14	51
+	+	21	69
+	+	23	0
+	+	33	31
+	+	20	34
+	+	33	0
+	+	25	0
+	+	20	18
+	+	25	64
+	+	39	63
+	+	20	17
+	+	19	17
+	+	39	90
+	+	33	0
+	+	25	65
+	+	28	31
+	+	29	36
+	+	30	48
+	+	28	16
+	+	31	42
+	+	25	65
+	+	27	23
+	+	32	0
+	+	22	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/RetirementGoal.java
+	*	1724271709	0
+	"	2	0
+	^	27	57
+	.	27	56
+	+	1	2
+	+	2	32
+	+	3	20
+	+	4	18
+	+	6	25
+	+	8	27
+	+	9	1
+	+	10	42
+	+	11	5
+	+	30	5
+	+	32	48
+	+	33	5
+	+	34	28
+	+	35	47
+	+	36	88
+	+	37	42
+	+	45	30
+	+	46	5
+	+	48	38
+	+	49	5
+	+	50	25
+	+	51	47
+	+	52	88
+	+	53	39
+	+	61	27
+	+	53	10
+	+	50	14
+	+	61	17
+	+	53	40
+	+	55	33
+	+	56	9
+	+	60	0
+	+	57	49
+	+	60	0
+	+	58	11
+	+	57	81
+	+	59	43
+	+	37	42
+	+	39	35
+	+	40	9
+	+	41	106
+	+	44	0
+	+	42	11
+	+	43	45
+	+	12	49
+	+	14	55
+	+	15	44
+	+	12	54
+	+	15	45
+	+	18	18
+	+	19	41
+	+	20	9
+	+	22	19
+	+	22	0
+	+	12	68
+	+	19	0
+	+	18	24
+	+	17	14
+	+	21	41
+	+	23	9
+	+	25	88
+	+	30	0
+	+	26	0
+	+	25	24
+	+	26	76
+	+	27	86
+	+	28	66
+	+	21	44
+	+	29	0
+	+	19	21
+	+	26	51
+	+	28	61
+	+	26	41
+	+	27	56
+
+> ~/OneDrive/alex/learning/book_java/6-looping/WhenProfible.java
+	*	1724200526	0
+	"	6	14
+	.	10	0
+	+	1	2
+	+	2	32
+	+	3	20
+	+	4	18
+	+	6	27
+	+	7	1
+	+	11	0
+	+	8	42
+	+	9	5
+	+	10	0
+
+> ~/.config/kitty/kitty.conf
+	*	1723913178	0
+	"	1	0
+	^	27	12
+	.	27	12
+	+	1285	22
+	+	250	46
+	+	1285	22
+	+	250	46
+	+	250	0
+	+	3	0
+	+	27	13
+	+	775	24
+	+	27	13
+	+	774	25
+	+	775	25
+	+	27	11
+	+	774	25
+	+	27	11
+	+	774	25
+	+	775	25
+	+	9	37
+	+	27	11
+	+	1285	22
+	+	9	38
+	+	27	12
+	+	154	24
+	+	1285	21
+	+	1285	0
+	+	1285	21
+	+	873	26
+	+	27	13
+	+	154	24
+	+	27	11
+	+	154	24
+	+	11	19
+	+	9	39
+	+	27	11
+	+	154	24
+	+	27	13
+	+	9	37
+	+	27	11
+	+	154	24
+	+	27	11
+	+	9	33
+	+	27	11
+	+	9	33
+	+	27	11
+	+	154	25
+	+	27	13
+	+	154	24
+	+	9	28
+	+	27	11
+	+	154	24
+	+	27	13
+	+	154	24
+	+	11	0
+	+	9	0
+	+	11	0
+	+	154	24
+	+	9	35
+	+	11	0
+	+	9	33
+	+	154	24
+	+	9	28
+	+	154	24
+	+	8	0
+	+	9	0
+	+	10	0
+	+	12	0
+	+	10	19
+	+	12	19
+	+	1285	0
+	+	1285	1
+	+	1285	0
+	+	154	24
+	+	1285	22
+	+	1285	16
+	+	1285	21
+	+	1285	1
+	+	1285	21
+	+	1285	2
+	+	1285	0
+	+	1285	2
+	+	774	25
+	+	1285	22
+	+	154	24
+	+	27	12
+	+	1285	2
+	+	2454	1
+	+	1285	0
+	+	2454	0
+	+	1285	22
+	+	27	13
+	+	250	0
+	+	27	12
+	+	1285	0
+	+	871	25
+	+	1285	0
+	+	1113	0
+	+	871	26
+	+	1122	22
+	+	27	13
+	+	773	25
+	+	27	12
+
+> ~/OneDrive/alex/learning/book_java/6-looping/EvenEntryLoop.java
+	*	1723848872	0
+	"	1	0
+	^	35	55
+	.	35	54
+	+	91	0
+	+	1	2
+	+	2	31
+	+	3	20
+	+	4	18
+	+	6	26
+	+	9	1
+	+	12	42
+	+	13	5
+	+	25	0
+	+	6	24
+	+	7	0
+	+	25	5
+	+	27	38
+	+	28	5
+	+	29	18
+	+	27	21
+	+	31	79
+	+	33	33
+	+	43	21
+	+	10	43
+	+	11	0
+	+	31	88
+	+	32	35
+	+	33	33
+	+	35	15
+	+	42	0
+	+	35	30
+	+	36	9
+	+	37	47
+	+	38	11
+	+	39	64
+	+	40	36
+	+	14	41
+	+	25	34
+	+	25	64
+	+	25	12
+	+	25	44
+	+	25	36
+	+	25	22
+	+	25	0
+	+	25	9
+	+	25	0
+	+	14	41
+	+	22	34
+	+	22	20
+	+	22	34
+	+	23	64
+	+	24	12
+	+	24	9
+	+	24	18
+	+	14	41
+	+	16	37
+	+	17	9
+	+	18	44
+	+	19	40
+	+	24	0
+	+	35	54
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Perfect.java
+	*	1723846432	0
+	"	1	0
+	^	13	23
+	.	13	22
+	+	50	0
+	+	55	9
+	+	55	30
+	+	55	9
+	+	55	0
+	+	55	22
+	+	55	23
+	+	55	28
+	+	55	0
+	+	55	38
+	+	55	9
+	+	55	23
+	+	55	32
+	+	55	0
+	+	50	37
+	+	50	0
+	+	41	19
+	+	55	0
+	+	39	0
+	+	41	19
+	+	45	50
+	+	45	9
+	+	55	0
+	+	50	0
+	+	45	0
+	+	55	0
+	+	55	9
+	+	55	32
+	+	45	0
+	+	50	0
+	+	55	0
+	+	50	0
+	+	45	0
+	+	55	0
+	+	39	17
+	+	50	33
+	+	39	17
+	+	41	19
+	+	42	30
+	+	43	9
+	+	53	23
+	+	53	0
+	+	45	0
+	+	50	0
+	+	41	0
+	+	45	44
+	+	47	0
+	+	45	0
+	+	41	0
+	+	47	23
+	+	50	0
+	+	47	0
+	+	44	19
+	+	51	0
+	+	52	0
+	+	41	0
+	+	40	21
+	+	51	0
+	+	40	24
+	+	55	0
+	+	40	21
+	+	44	87
+	+	1	2
+	+	2	21
+	+	3	19
+	+	2	11
+	+	4	18
+	+	6	20
+	+	7	1
+	+	8	42
+	+	9	5
+	+	27	0
+	+	10	27
+	+	12	20
+	+	13	23
+	+	15	31
+	+	16	9
+	+	25	25
+	+	18	45
+	+	19	13
+	+	22	0
+	+	10	38
+	+	20	27
+	+	20	36
+	+	21	36
+	+	22	38
+	+	22	44
+	+	25	0
+	+	18	0
+	+	20	0
+	+	19	0
+	+	20	20
+	+	18	30
+	+	22	13
+	+	23	41
+	+	24	0
+	+	20	29
+	+	23	0
+	+	24	0
+	+	13	22
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Factorials.java
+	*	1723823759	0
+	"	1	0
+	^	18	20
+	.	14	15
+	+	1	2
+	+	2	28
+	+	3	20
+	+	4	18
+	+	5	2
+	+	7	23
+	+	8	1
+	+	9	42
+	+	10	5
+	+	25	0
+	+	25	21
+	+	11	29
+	+	25	0
+	+	25	39
+	+	25	9
+	+	25	0
+	+	13	8
+	+	14	24
+	+	15	31
+	+	16	9
+	+	18	24
+	+	18	45
+	+	19	13
+	+	21	0
+	+	12	30
+	+	14	8
+	+	20	30
+	+	22	58
+	+	13	8
+	+	17	21
+	+	14	17
+	+	18	30
+	+	20	36
+	+	18	30
+	+	20	26
+	+	14	0
+	+	17	0
+	+	16	0
+	+	11	17
+	+	12	20
+	+	12	43
+	+	11	17
+	+	18	20
+	+	12	12
+	+	11	28
+	+	12	10
+	+	18	19
+	+	14	15
+
+> ~/OneDrive/alex/learning/book_java/6-looping/InBetween.java
+	*	1723822943	0
+	"	1	0
+	.	35	0
+	+	6	25
+	+	8	22
+	+	9	1
+	+	10	42
+	+	11	5
+	+	37	5
+	+	39	37
+	+	40	5
+	+	41	47
+	+	46	0
+	+	41	18
+	+	46	0
+	+	43	63
+	+	44	33
+	+	45	21
+	+	43	28
+	+	47	4
+	+	48	34
+	+	50	17
+	+	52	46
+	+	53	13
+	+	54	21
+	+	12	33
+	+	14	17
+	+	12	33
+	+	14	36
+	+	13	0
+	+	14	37
+	+	15	37
+	+	37	38
+	+	37	9
+	+	37	0
+	+	15	37
+	+	17	36
+	+	18	84
+	+	19	52
+	+	20	11
+	+	37	0
+	+	20	68
+	+	36	13
+	+	36	27
+	+	36	0
+	+	12	38
+	+	20	0
+	+	17	65
+	+	15	37
+	+	16	0
+	+	20	25
+	+	20	41
+	+	36	15
+	+	36	19
+	+	36	15
+	+	36	0
+	+	20	0
+	+	36	15
+	+	20	13
+	+	36	12
+	+	36	13
+	+	36	0
+	+	15	0
+	+	17	11
+	+	21	9
+	+	36	8
+	+	36	13
+	+	36	42
+	+	36	13
+	+	36	0
+	+	36	40
+	+	36	0
+	+	36	28
+	+	36	0
+	+	26	60
+	+	27	13
+	+	28	0
+	+	27	37
+	+	26	57
+	+	24	72
+	+	25	59
+	+	29	12
+	+	31	70
+	+	32	63
+	+	33	60
+	+	34	13
+	+	34	35
+	+	22	39
+	+	23	13
+	+	28	0
+	+	24	0
+	+	29	16
+	+	30	13
+	+	31	0
+	+	35	0
+	+	31	0
+	+	27	0
+	+	28	0
+	+	34	0
+	+	35	0
+
+> ~/factorials.py
+	*	1723397943	0
+	"	1	0
+	^	3	0
+	.	2	11
+	+	1	10
+	+	2	11
+	+	4	24
+	+	5	17
+	+	7	35
+	+	8	22
+	+	12	0
+	+	10	62
+	+	11	19
+	+	7	33
+	+	4	22
+	+	7	0
+	+	10	4
+	+	11	4
+	+	10	10
+	+	8	20
+	+	10	0
+	+	7	32
+	+	6	0
+	+	9	0
+	+	2	11
+
+> ~/Test.java
+	*	1723396570	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	76	9
+	+	81	0
+	+	77	26
+	+	78	13
+	+	79	50
+	+	73	25
+	+	72	21
+	+	77	15
+	+	73	19
+	+	77	23
+	+	73	23
+	+	72	24
+	+	73	0
+	+	72	23
+	+	1	17
+	+	33	1
+	+	34	42
+	+	35	5
+	+	67	0
+	+	1	17
+	+	33	0
+	+	1	19
+	+	36	31
+	+	39	35
+	+	40	37
+	+	38	22
+	+	43	30
+	+	43	33
+	+	43	17
+	+	41	0
+	+	38	0
+	+	43	34
+	+	45	39
+	+	46	38
+	+	45	27
+	+	46	44
+	+	45	34
+	+	48	8
+	+	49	36
+	+	50	33
+	+	52	63
+	+	53	79
+	+	54	8
+	+	55	36
+	+	56	34
+	+	58	40
+	+	59	44
+	+	61	8
+	+	64	8
+	+	65	53
+	+	52	61
+	+	65	59
+	+	38	20
+	+	43	32
+	+	49	32
+	+	55	32
+	+	62	32
+	+	43	43
+	+	50	26
+	+	63	26
+	+	43	42
+	+	38	0
+	+	37	25
+	+	43	0
+	+	42	39
+	+	43	33
+	+	58	37
+	+	59	41
+	+	47	46
+	+	46	44
+	+	47	48
+	+	59	44
+	+	60	26
+	+	1	17
+	+	23	1
+	+	24	42
+	+	25	5
+	+	29	34
+	+	29	38
+	+	29	32
+	+	30	0
+	+	29	0
+	+	29	34
+	+	29	38
+	+	29	0
+	+	29	17
+	+	29	0
+	+	29	12
+	+	29	16
+	+	29	0
+	+	27	42
+	+	28	44
+	+	26	16
+	+	22	0
+	+	3	22
+	+	5	42
+	+	7	38
+	+	13	45
+	+	16	36
+	+	3	16
+
+> ~/OneDrive/alex/learning/book_java/6-looping/CountByAnything.java
+	*	1723389857	0
+	"	1	0
+	^	17	47
+	.	17	51
+	+	10	42
+	+	11	5
+	+	30	0
+	+	6	25
+	+	30	5
+	+	42	37
+	+	43	5
+	+	44	23
+	+	48	26
+	+	45	47
+	+	46	64
+	+	47	36
+	+	14	23
+	+	16	36
+	+	14	30
+	+	14	0
+	+	16	37
+	+	30	0
+	+	19	34
+	+	21	9
+	+	28	0
+	+	18	0
+	+	28	0
+	+	28	36
+	+	42	31
+	+	16	15
+	+	14	18
+	+	28	0
+	+	19	20
+	+	14	25
+	+	14	0
+	+	19	30
+	+	15	32
+	+	49	5
+	+	33	36
+	+	34	5
+	+	35	22
+	+	39	24
+	+	36	47
+	+	37	91
+	+	38	34
+	+	46	29
+	+	32	0
+	+	42	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	42	0
+	+	41	0
+	+	14	26
+	+	15	0
+	+	33	35
+	+	35	22
+	+	38	18
+	+	39	25
+	+	15	8
+	+	14	30
+	+	19	21
+	+	19	16
+	+	21	26
+	+	21	9
+	+	21	40
+	+	21	28
+	+	21	38
+	+	21	25
+	+	21	0
+	+	28	28
+	+	21	24
+	+	19	21
+	+	21	36
+	+	21	23
+	+	21	19
+	+	21	0
+	+	14	30
+	+	19	21
+	+	27	26
+	+	22	36
+	+	20	17
+	+	29	0
+	+	22	40
+	+	24	41
+	+	25	39
+	+	26	0
+	+	12	34
+	+	13	0
+	+	15	0
+	+	14	44
+	+	17	43
+	+	16	20
+	+	15	20
+	+	24	32
+	+	17	15
+	+	16	15
+	+	15	15
+	+	14	40
+	+	24	28
+	+	17	51
+
+> ~/OneDrive/alex/learning/book_java/6-looping/DemoIncrement.java
+	*	1723333994	0
+	"	1	0
+	^	20	35
+	.	18	34
+	+	1	2
+	+	23	0
+	+	2	31
+	+	3	20
+	+	4	19
+	+	5	28
+	+	6	2
+	+	8	26
+	+	9	1
+	+	10	42
+	+	11	5
+	+	21	0
+	+	12	18
+	+	13	27
+	+	12	21
+	+	13	28
+	+	15	14
+	+	16	27
+	+	12	13
+	+	16	28
+	+	18	29
+	+	19	29
+	+	20	0
+	+	18	37
+	+	19	47
+	+	20	38
+	+	19	38
+	+	18	34
+
+> ~/OneDrive/alex/learning/book_java/6-looping/NERD_tree_1
+	*	1723333988	0
+	"	9	0
+	.	1	0
+	+	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/CountByThrees.java
+	*	1723333712	0
+	"	1	0
+	^	18	0
+	.	18	0
+	+	1	2
+	+	2	31
+	+	3	20
+	+	4	18
+	+	6	26
+	+	7	1
+	+	8	42
+	+	9	8
+	+	9	5
+	+	24	9
+	+	10	27
+	+	24	0
+	+	10	27
+	+	10	30
+	+	10	32
+	+	24	20
+	+	24	0
+	+	12	0
+	+	24	0
+	+	12	20
+	+	14	20
+	+	15	31
+	+	16	9
+	+	22	25
+	+	22	0
+	+	22	23
+	+	22	0
+	+	10	13
+	+	10	32
+	+	11	28
+	+	10	24
+	+	13	28
+	+	22	0
+	+	14	41
+	+	22	28
+	+	22	39
+	+	14	0
+	+	22	0
+	+	13	0
+	+	16	36
+	+	16	13
+	+	16	0
+	+	16	48
+	+	16	45
+	+	16	13
+	+	16	0
+	+	16	9
+	+	17	35
+	+	20	33
+	+	17	40
+	+	20	0
+	+	22	0
+	+	21	0
+	+	18	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/CompareLoopTimes.java
+	*	1723236231	0
+	"	1	0
+	^	20	74
+	.	20	73
+	+	22	16
+	+	29	8
+	+	30	40
+	+	31	33
+	+	22	16
+	+	23	16
+	+	22	30
+	+	37	28
+	+	28	38
+	+	37	66
+	+	38	74
+	+	22	17
+	+	39	8
+	+	40	73
+	+	22	0
+	+	41	42
+	+	42	40
+	+	43	34
+	+	45	40
+	+	46	45
+	+	47	8
+	+	48	40
+	+	49	34
+	+	57	0
+	+	55	0
+	+	57	0
+	+	55	54
+	+	18	0
+	+	15	41
+	+	32	19
+	+	31	18
+	+	30	18
+	+	25	18
+	+	24	18
+	+	32	40
+	+	38	36
+	+	51	19
+	+	49	18
+	+	48	18
+	+	43	18
+	+	42	18
+	+	51	40
+	+	56	36
+	+	32	41
+	+	37	26
+	+	37	22
+	+	20	40
+	+	37	65
+	+	20	30
+	+	19	30
+	+	18	30
+	+	37	61
+	+	37	0
+	+	51	0
+	+	54	0
+	+	33	45
+	+	51	38
+	+	33	45
+	+	33	50
+	+	33	64
+	+	33	60
+	+	37	0
+	+	37	26
+	+	51	0
+	+	55	0
+	+	51	0
+	+	37	8
+	+	37	34
+	+	37	8
+	+	37	26
+	+	37	60
+	+	51	8
+	+	51	37
+	+	51	55
+	+	32	0
+	+	51	12
+	+	51	0
+	+	37	0
+	+	51	0
+	+	33	64
+	+	34	26
+	+	35	56
+	+	36	0
+	+	33	44
+	+	33	35
+	+	20	45
+	+	33	0
+	+	35	38
+	+	51	8
+	+	33	0
+	+	51	0
+	+	20	73
+
+> ~/OneDrive/alex/learning/book_java/4-more-objects-concepts/TimedResponse2.java
+	*	1723220560	0
+	"	37	0
+	^	1	4
+	.	1	0
+	+	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/TestFusedLoopTime.java
+	*	1723144947	0
+	"	1	0
+	.	55	0
+	+	1	2
+	+	2	35
+	+	3	20
+	+	4	18
+	+	6	19
+	+	8	30
+	+	9	1
+	+	10	42
+	+	11	5
+	+	47	0
+	+	12	37
+	+	13	37
+	+	15	34
+	+	16	26
+	+	18	34
+	+	19	33
+	+	18	17
+	+	19	34
+	+	21	35
+	+	22	22
+	+	23	35
+	+	24	22
+	+	25	8
+	+	26	40
+	+	27	34
+	+	29	70
+	+	30	76
+	+	31	8
+	+	32	22
+	+	33	40
+	+	34	34
+	+	36	35
+	+	37	9
+	+	38	22
+	+	39	21
+	+	40	9
+	+	42	40
+	+	43	33
+	+	30	25
+	+	43	34
+	+	45	70
+	+	46	62
+	+	47	5
+	+	49	32
+	+	50	5
+	+	51	5
+	+	53	32
+	+	54	5
+	+	55	0
+
+> ~/.bashrc
+	*	1723141465	0
+	"	1	0
+	^	131	9
+	.	131	7
+	+	108	96
+	+	112	0
+	+	108	95
+	+	110	54
+	+	111	15
+	+	43	45
+	+	50	30
+	+	51	30
+	+	39	29
+	+	43	94
+	+	54	17
+	+	42	72
+	+	54	20
+	+	55	0
+	+	56	53
+	+	56	23
+	+	125	23
+	+	127	17
+	+	127	22
+	+	56	42
+	+	56	103
+	+	56	45
+	+	127	24
+	+	132	16
+	+	132	24
+	+	34	0
+	+	37	0
+	+	42	59
+	+	132	0
+	+	56	0
+	+	127	24
+	+	127	39
+	+	128	46
+	+	130	69
+	+	131	72
+	+	132	54
+	+	132	88
+	+	131	91
+	+	132	0
+	+	130	47
+	+	42	64
+	+	131	10
+	+	127	0
+	+	131	9
+	+	56	0
+	+	131	7
+
+> ~/OneDrive/alex/learning/book_java/6-looping/DivideEvenly2.java
+	*	1722891514	0
+	"	1	0
+	^	14	40
+	.	16	28
+	+	7	25
+	+	4	10
+	+	2	25
+	+	12	23
+	+	14	46
+	+	15	9
+	+	16	67
+	+	17	35
+	+	19	20
+	+	14	39
+	+	17	0
+	+	14	0
+	+	16	28
+
+> ~/OneDrive/alex/learning/book_java/3-methods-classes-objects/Insurance.java
+	*	1722786778	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/DivideEvenly.java
+	*	1722614435	0
+	"	1	0
+	^	16	29
+	.	16	28
+	+	1	2
+	+	2	30
+	+	3	20
+	+	4	19
+	+	5	32
+	+	7	25
+	+	8	1
+	+	9	42
+	+	10	5
+	+	11	30
+	+	12	16
+	+	14	61
+	+	16	40
+	+	17	9
+	+	22	0
+	+	12	0
+	+	18	33
+	+	19	13
+	+	20	41
+	+	23	0
+	+	16	28
+
+> ~/OneDrive/alex/learning/book_java/6-looping/DemoIncrement2.java
+	*	1722599695	0
+	"	1	0
+	^	24	38
+	.	24	38
+	+	2	26
+	+	8	26
+	+	20	54
+	+	22	35
+	+	23	38
+	+	24	38
+	+	26	59
+	+	27	59
+	+	24	38
+
+> ~/OneDrive/alex/learning/book_java/6-looping/AssignVolunteer5.java
+	*	1722563915	0
+	"	1	0
+	^	4	14
+	.	5	9
+	+	9	28
+	+	2	28
+	+	5	29
+	+	61	34
+	+	63	62
+	+	64	9
+	+	69	0
+	+	70	0
+	+	69	0
+	+	65	97
+	+	66	86
+	+	66	140
+	+	67	54
+	+	68	37
+	+	60	99
+	+	66	136
+	+	66	29
+	+	66	88
+	+	4	13
+	+	5	9
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/carlys_event/EventDemo.java
+	*	1722542560	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/CondoSales2.java
+	*	1722459568	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/CondoSales.java
+	*	1722459555	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/AscendingAndDescending.java
+	*	1722459456	0
+	"	70	0
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/EvenOdd.java
+	*	1722459421	0
+	"	1	0
+	^	17	62
+	.	17	61
+	+	15	61
+	+	17	61
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/ConditionalOperatorExample.java
+	*	1722454761	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/AssignVolunteer2.java
+	*	1722364953	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/AssignVolunteer.java
+	*	1722277411	0
+	"	40	0
+	^	36	9
+	.	36	8
+	+	36	8
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/RockPaperScissors.java
+	*	1722085690	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/TwelveDays.java
+	*	1722013476	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/5-decisions/RandomGuess2.java
+	*	1721769532	0
+	"	1	0
+
+> ~/OneDrive/alex/learning/book_java/6-looping/Inbetween.java
+	*	1720227424	0
+	"	76	0
+
+> ~/OneDrive/alex/programacion/learning/book_java_programming/6-looping/Perfect.java
+	*	1720131719	0
+	"	1	0
+	.	29	0
+	+	14	22
+	+	17	31
+	+	18	9
+	+	27	30
+	+	27	13
+	+	27	0
+	+	27	27
+	+	10	24
+	+	12	14
+	+	14	14
+	+	17	28
+	+	27	20
+	+	27	0
+	+	10	29
+	+	13	61
+	+	18	10
+	+	18	9
+	+	19	35
+	+	20	13
+	+	26	0
+	+	25	27
+	+	10	40
+	+	15	18
+	+	21	35
+	+	22	17
+	+	23	37
+	+	24	0
+	+	27	0
+	+	29	0
+
+> ~/OneDrive/alex/programacion/learning/book_java_programming/6-looping/count/CountByAnything.java
+	*	1720121553	0
+	"	1	0
+
+> ~/OneDrive/alex/programacion/learning/book_java_programming/6-looping/count/CountBy
+	*	1720121545	0
+	"	1	0
+
+> ~/learning/java/6-looping/Perfect.java
+	*	1720037156	0
+	"	1	0
+	^	13	22
+	.	13	21
+	+	1	2
+	+	2	25
+	+	3	20
+	+	4	18
+	+	5	2
+	+	6	20
+	+	7	1
+	+	8	42
+	+	9	5
+	+	14	0
+	+	14	30
+	+	14	33
+	+	14	32
+	+	14	0
+	+	14	22
+	+	14	39
+	+	14	23
+	+	14	9
+	+	14	8
+	+	14	0
+	+	14	23
+	+	14	41
+	+	14	0
+	+	10	27
+	+	12	12
+	+	12	19
+	+	13	21
+
+> ~/numbers.txt
+	*	1720018268	0
+	"	1000	0
+	^	20	4
+	.	20	3
+	+	1	1
+	+	2	1
+	+	3	1
+	+	4	1
+	+	5	1
+	+	6	1
+	+	7	1
+	+	8	1
+	+	9	1
+	+	10	2
+	+	11	2
+	+	12	2
+	+	13	2
+	+	14	2
+	+	15	2
+	+	16	2
+	+	17	2
+	+	18	2
+	+	19	2
+	+	20	3
+
+> ~/learning/java/6-looping/Inbetween.java
+	*	1720017715	0
+	"	1	0
+	^	27	94
+	.	27	93
+	+	1	29
+	+	1	17
+	+	1	36
+	+	1	50
+	+	1	0
+	+	1	23
+	+	1	0
+	+	1	28
+	+	1	33
+	+	1	28
+	+	1	19
+	+	1	0
+	+	1	8
+	+	1	0
+	+	1	38
+	+	1	39
+	+	1	0
+	+	1	28
+	+	1	0
+	+	1	36
+	+	1	69
+	+	1	33
+	+	64	26
+	+	1	32
+	+	1	44
+	+	1	35
+	+	1	52
+	+	1	76
+	+	1	52
+	+	1	62
+	+	1	30
+	+	1	32
+	+	1	76
+	+	1	36
+	+	1	9
+	+	1	0
+	+	1	12
+	+	1	9
+	+	1	45
+	+	1	40
+	+	1	34
+	+	1	24
+	+	1	39
+	+	1	13
+	+	1	28
+	+	1	43
+	+	1	28
+	+	1	56
+	+	64	33
+	+	1	24
+	+	1	26
+	+	1	61
+	+	1	0
+	+	1	12
+	+	1	0
+	+	1	5
+	+	1	33
+	+	64	0
+	+	64	5
+	+	64	0
+	+	1	0
+	+	64	0
+	+	63	0
+	+	1	0
+	+	63	0
+	+	63	3
+	+	63	0
+	+	62	0
+	+	63	0
+	+	57	5
+	+	59	29
+	+	61	5
+	+	61	0
+	+	59	0
+	+	61	0
+	+	60	0
+	+	61	0
+	+	27	93
+
+> ~/Dropbox/sena/transversales/1_SST_etapa_1/notas_actividad_cuestionario.md
+	*	1719708877	0
+	"	1	0
+	^	20	29
+	.	20	29
+	+	21	0
+	+	11	65
+	+	19	66
+	+	11	66
+	+	12	0
+	+	19	0
+	+	12	46
+	+	1	0
+	+	2	0
+	+	1	32
+	+	3	81
+	+	12	52
+	+	13	59
+	+	18	0
+	+	3	68
+	+	1	0
+	+	13	114
+	+	14	101
+	+	13	52
+	+	14	116
+	+	3	7
+	+	14	116
+	+	17	0
+	+	5	93
+	+	5	122
+	+	18	0
+	+	5	179
+	+	5	109
+	+	6	134
+	+	5	0
+	+	6	135
+	+	15	100
+	+	16	25
+	+	13	94
+	+	14	5
+	+	14	29
+	+	5	82
+	+	6	97
+	+	3	0
+	+	3	64
+	+	9	43
+	+	20	29
+
+> ~/Dropbox/sena/transversales/1_SST_etapa_1/notas_actividad_cuestionario.txt
+	*	1719676671	0
+	"	3	0
+	^	2	88
+	.	2	87
+	+	1	101
+	+	3	20
+	+	1	57
+	+	2	0
+	+	1	80
+	+	2	87
+
+> ~/learning/java/6-looping/Factorials.java
+	*	1719423138	0
+	"	5	0
+	^	15	15
+	.	15	14
+	+	25	18
+	+	25	26
+	+	25	27
+	+	25	46
+	+	25	13
+	+	25	0
+	+	25	29
+	+	25	18
+	+	25	28
+	+	25	9
+	+	25	8
+	+	25	22
+	+	25	36
+	+	25	30
+	+	25	41
+	+	25	36
+	+	25	43
+	+	25	29
+	+	25	21
+	+	25	17
+	+	25	9
+	+	25	21
+	+	25	0
+	+	25	20
+	+	25	8
+	+	25	0
+	+	11	27
+	+	25	21
+	+	25	20
+	+	25	0
+	+	25	35
+	+	25	22
+	+	25	0
+	+	25	19
+	+	25	17
+	+	25	22
+	+	25	0
+	+	25	29
+	+	25	12
+	+	25	0
+	+	25	31
+	+	25	0
+	+	25	18
+	+	25	29
+	+	25	13
+	+	25	31
+	+	25	17
+	+	25	0
+	+	12	33
+	+	25	0
+	+	12	33
+	+	14	22
+	+	15	22
+	+	19	39
+	+	20	9
+	+	21	35
+	+	23	9
+	+	22	35
+	+	19	27
+	+	11	26
+	+	12	29
+	+	19	20
+	+	11	27
+	+	12	38
+	+	15	15
+	+	21	30
+	+	17	28
+	+	16	22
+	+	16	0
+	+	18	9
+	+	25	9
+	+	26	4
+	+	22	0
+	+	25	0
+	+	17	23
+	+	24	23
+	+	24	21
+	+	19	11
+	+	20	11
+	+	21	15
+	+	23	11
+	+	22	11
+	+	24	20
+	+	17	20
+	+	24	20
+	+	16	0
+	+	12	30
+	+	22	0
+	+	12	0
+	+	15	14
+
+> ~/.vimrc
+	*	1719423108	0
+	"	1	0
+	^	44	29
+	.	44	28
+	+	205	35
+	+	205	34
+	+	205	44
+	+	169	11
+	+	132	1
+	+	205	0
+	+	145	0
+	+	146	0
+	+	205	0
+	+	136	32
+	+	138	46
+	+	190	54
+	+	205	0
+	+	387	42
+	+	387	0
+	+	240	128
+	+	245	0
+	+	387	21
+	+	387	0
+	+	190	54
+	+	192	10
+	+	460	0
+	+	192	40
+	+	204	59
+	+	204	43
+	+	204	0
+	+	193	0
+	+	194	0
+	+	193	0
+	+	195	0
+	+	204	0
+	+	132	0
+	+	199	18
+	+	199	15
+	+	204	35
+	+	204	0
+	+	204	1
+	+	199	18
+	+	199	15
+	+	204	0
+	+	215	1
+	+	224	1
+	+	225	1
+	+	226	1
+	+	230	1
+	+	231	1
+	+	215	0
+	+	236	39
+	+	241	45
+	+	244	46
+	+	242	1
+	+	243	0
+	+	242	0
+	+	234	0
+	+	239	0
+	+	384	58
+	+	245	0
+	+	367	0
+	+	256	0
+	+	261	0
+	+	266	0
+	+	273	0
+	+	278	0
+	+	284	0
+	+	295	0
+	+	298	0
+	+	301	0
+	+	305	0
+	+	367	0
+	+	385	39
+	+	386	0
+	+	204	0
+	+	137	26
+	+	15	23
+	+	145	24
+	+	15	43
+	+	17	1
+	+	215	0
+	+	216	27
+	+	222	30
+	+	216	23
+	+	17	0
+	+	16	1
+	+	28	0
+	+	108	0
+	+	37	38
+	+	16	0
+	+	214	0
+	+	213	0
+	+	114	0
+	+	115	0
+	+	210	0
+	+	125	1
+	+	132	1
+	+	121	61
+	+	142	26
+	+	42	18
+	+	44	40
+	+	45	24
+	+	44	28
+
+> ~/learning/java/6-looping/EvenEntryLoop.java
+	*	1719321207	0
+	"	1	0
+	^	37	33
+	.	37	32
+	+	21	16
+	+	21	19
+	+	50	0
+	+	21	25
+	+	21	0
+	+	21	19
+	+	21	0
+	+	21	17
+	+	21	0
+	+	21	16
+	+	21	30
+	+	21	66
+	+	21	0
+	+	21	12
+	+	21	20
+	+	21	16
+	+	21	41
+	+	18	12
+	+	18	11
+	+	21	37
+	+	21	32
+	+	18	0
+	+	21	7
+	+	21	8
+	+	21	32
+	+	21	11
+	+	21	15
+	+	21	19
+	+	21	15
+	+	21	11
+	+	21	0
+	+	29	0
+	+	26	29
+	+	30	43
+	+	30	42
+	+	21	0
+	+	21	22
+	+	21	8
+	+	21	23
+	+	21	9
+	+	21	5
+	+	21	8
+	+	21	25
+	+	21	13
+	+	21	44
+	+	21	0
+	+	17	22
+	+	18	0
+	+	21	0
+	+	19	12
+	+	21	27
+	+	26	0
+	+	30	0
+	+	21	38
+	+	21	0
+	+	20	0
+	+	31	0
+	+	31	11
+	+	31	0
+	+	44	32
+	+	31	12
+	+	41	13
+	+	33	13
+	+	25	29
+	+	29	43
+	+	29	42
+	+	41	21
+	+	33	0
+	+	25	0
+	+	33	0
+	+	37	0
+	+	33	0
+	+	41	0
+	+	40	15
+	+	25	21
+	+	29	42
+	+	33	19
+	+	29	0
+	+	25	0
+	+	37	32
+
+> ~/learning/java/6-looping/AssignVolunteer5.java
+	*	1719260534	0
+	"	47	0
+	^	59	25
+	.	59	24
+	+	2	28
+	+	4	13
+	+	8	28
+	+	23	25
+	+	53	24
+	+	60	34
+	+	61	8
+	+	73	0
+	+	62	62
+	+	63	9
+	+	64	97
+	+	65	86
+	+	66	45
+	+	65	78
+	+	71	0
+	+	67	11
+	+	68	105
+	+	67	111
+	+	68	75
+	+	68	135
+	+	59	71
+	+	69	54
+	+	70	37
+	+	67	94
+	+	68	28
+	+	68	47
+	+	75	0
+	+	72	0
+	+	59	24
+
+> ~/learning/java/6-looping/count/CountByAnything.java
+	*	1719089443	0
+	"	1	0
+	^	20	17
+	.	20	16
+	+	2	27
+	+	8	27
+	+	6	25
+	+	28	5
+	+	30	36
+	+	47	0
+	+	31	5
+	+	32	23
+	+	33	47
+	+	34	64
+	+	36	37
+	+	36	22
+	+	36	25
+	+	12	26
+	+	16	0
+	+	20	16
+	+	35	0
+	+	36	0
+	+	30	37
+	+	34	70
+	+	39	0
+	+	38	0
+	+	39	36
+	+	43	98
+	+	45	0
+	+	16	41
+	+	15	42
+	+	16	21
+	+	15	23
+	+	16	23
+	+	20	42
+	+	45	0
+	+	15	0
+	+	20	16
+	+	25	0
+	+	25	16
+	+	14	15
+	+	25	39
+	+	25	0
+	+	25	13
+	+	25	0
+	+	14	13
+	+	25	40
+	+	25	0
+	+	25	20
+	+	20	16
+	+	25	25
+	+	20	16
+	+	25	0
+	+	25	31
+	+	25	0
+	+	23	38
+	+	24	0
+	+	12	23
+	+	16	24
+	+	15	24
+	+	23	37
+	+	17	44
+	+	12	30
+	+	13	0
+	+	17	44
+	+	23	33
+	+	20	16
+
+> ~/.gitconfig
+	*	1719077274	0
+	"	1	0
+	^	3	31
+	.	3	30
+	+	3	30
+
+> ~/learning/java/6-looping/count/CountByThrees.java
+	*	1719016267	0
+	"	1	0
+	^	18	27
+	.	18	26
+	+	1	2
+	+	2	31
+	+	3	20
+	+	4	18
+	+	5	2
+	+	6	26
+	+	7	1
+	+	8	42
+	+	9	5
+	+	23	0
+	+	11	14
+	+	23	0
+	+	11	14
+	+	15	34
+	+	23	0
+	+	16	9
+	+	20	0
+	+	17	32
+	+	23	5
+	+	24	42
+	+	24	5
+	+	24	0
+	+	24	45
+	+	24	23
+	+	24	32
+	+	11	29
+	+	15	28
+	+	10	14
+	+	14	47
+	+	24	23
+	+	24	0
+	+	24	47
+	+	24	0
+	+	20	29
+	+	17	28
+	+	20	0
+	+	14	0
+	+	20	0
+	+	17	29
+	+	20	9
+	+	22	0
+	+	18	34
+	+	19	0
+	+	12	28
+	+	10	0
+	+	18	26
+
+> ~/learning/java/4-more-objects-concepts/TimedResponse2.java
+	*	1718988665	0
+	"	37	0
+
+> ~/learning/java/6-looping/CompareLoopTimes.java
+	*	1718988238	0
+	"	1	0
+	^	51	79
+	.	51	78
+	+	1	2
+	+	2	34
+	+	3	20
+	+	4	18
+	+	5	2
+	+	7	29
+	+	8	1
+	+	9	42
+	+	10	5
+	+	52	0
+	+	15	31
+	+	11	35
+	+	12	36
+	+	12	37
+	+	14	0
+	+	17	0
+	+	6	17
+	+	17	26
+	+	20	34
+	+	21	33
+	+	20	17
+	+	21	34
+	+	23	40
+	+	24	44
+	+	25	8
+	+	26	40
+	+	27	34
+	+	34	100
+	+	34	124
+	+	35	8
+	+	37	40
+	+	38	33
+	+	36	19
+	+	18	0
+	+	19	19
+	+	38	34
+	+	40	40
+	+	41	44
+	+	24	44
+	+	42	8
+	+	43	40
+	+	44	33
+	+	51	76
+	+	34	78
+	+	11	27
+	+	15	21
+	+	21	17
+	+	20	18
+	+	27	15
+	+	26	16
+	+	38	17
+	+	37	18
+	+	44	15
+	+	43	18
+	+	15	53
+	+	34	89
+	+	51	87
+	+	16	36
+	+	27	35
+	+	29	43
+	+	27	19
+	+	26	19
+	+	21	19
+	+	20	19
+	+	44	35
+	+	46	20
+	+	44	19
+	+	43	19
+	+	38	19
+	+	37	19
+	+	46	43
+	+	29	53
+	+	13	47
+	+	12	40
+	+	11	40
+	+	29	55
+	+	31	27
+	+	32	73
+	+	33	12
+	+	33	38
+	+	33	0
+	+	46	55
+	+	48	27
+	+	49	73
+	+	50	0
+	+	34	77
+	+	34	80
+	+	51	75
+	+	51	78
+
+> ~/learning/java/6-looping/Test.java
+	*	1718921491	0
+	"	1	0
+	^	8	24
+	.	7	23
+	+	46	1
+	+	47	42
+	+	48	5
+	+	55	4
+	+	49	7
+	+	51	7
+	+	52	7
+	+	53	11
+	+	54	11
+	+	54	7
+	+	51	28
+	+	54	0
+	+	1	17
+	+	28	1
+	+	29	0
+	+	29	42
+	+	44	0
+	+	31	41
+	+	32	9
+	+	33	33
+	+	36	29
+	+	37	8
+	+	38	21
+	+	39	23
+	+	40	9
+	+	41	36
+	+	42	16
+	+	35	0
+	+	1	17
+	+	13	1
+	+	14	0
+	+	14	42
+	+	26	0
+	+	16	24
+	+	26	0
+	+	16	31
+	+	18	24
+	+	26	0
+	+	18	20
+	+	19	23
+	+	18	19
+	+	26	0
+	+	19	24
+	+	21	10
+	+	22	9
+	+	23	33
+	+	24	50
+	+	25	24
+	+	1	17
+	+	2	1
+	+	3	43
+	+	4	5
+	+	11	17
+	+	11	14
+	+	11	0
+	+	3	34
+	+	11	16
+	+	11	30
+	+	11	27
+	+	11	21
+	+	11	16
+	+	11	14
+	+	11	15
+	+	11	0
+	+	11	27
+	+	11	37
+	+	11	27
+	+	11	16
+	+	11	14
+	+	11	36
+	+	11	35
+	+	11	0
+	+	11	34
+	+	11	36
+	+	11	23
+	+	11	48
+	+	11	0
+	+	11	18
+	+	11	10
+	+	11	9
+	+	11	38
+	+	11	14
+	+	11	23
+	+	11	15
+	+	11	24
+	+	11	0
+	+	7	34
+	+	8	38
+	+	9	52
+	+	10	0
+	+	5	17
+	+	6	0
+	+	7	12
+	+	8	16
+	+	7	23
+
+> ~/learning/java/6-looping/Test
+	*	1718911678	0
+	"	2	0
+	^	2	0
+	.	1	3
+	+	1	3
+
+> ~/learning/java/6-looping/TestFusedLoopTime.java
+	*	1718909513	0
+	"	1	0
+	^	17	15
+	.	17	14
+	+	1	3
+	+	26	0
+	+	2	35
+	+	3	20
+	+	4	18
+	+	6	17
+	+	8	30
+	+	9	1
+	+	10	42
+	+	11	5
+	+	47	0
+	+	6	18
+	+	12	37
+	+	13	37
+	+	15	25
+	+	16	34
+	+	20	30
+	+	21	33
+	+	20	36
+	+	21	34
+	+	23	35
+	+	26	21
+	+	47	5
+	+	49	32
+	+	50	5
+	+	51	5
+	+	53	32
+	+	54	5
+	+	55	0
+	+	25	34
+	+	26	22
+	+	27	8
+	+	28	40
+	+	29	34
+	+	30	67
+	+	31	72
+	+	16	34
+	+	19	26
+	+	20	0
+	+	32	8
+	+	33	28
+	+	34	40
+	+	35	34
+	+	37	35
+	+	38	9
+	+	39	22
+	+	40	0
+	+	41	9
+	+	43	40
+	+	44	33
+	+	45	62
+	+	30	62
+	+	45	63
+	+	23	33
+	+	25	32
+	+	37	32
+	+	12	28
+	+	26	9
+	+	27	8
+	+	25	8
+	+	26	15
+	+	26	0
+	+	27	0
+	+	26	0
+	+	25	13
+	+	12	41
+	+	16	31
+	+	17	14
+
+> ~/learning/java/4-more-objects-concepts/dice/FiveDice2.java
+	*	1718901450	0
+	"	1	0
+	^	36	33
+	.	36	32
+	+	6	21
+	+	25	33
+	+	36	32
+	+	25	32
+	+	36	32
+
+> ~/learning/java/4-more-objects-concepts/dice/FiveDice.java
+	*	1718900964	0
+	"	1	0
+	^	41	32
+	.	41	31
+	+	27	0
+	+	32	0
+	+	38	0
+	+	26	0
+	+	29	100
+	+	30	27
+	+	30	48
+	+	29	92
+	+	30	0
+	+	30	27
+	+	40	82
+	+	41	0
+	+	41	31
+
+> ~/learning/java/6-looping/ExampleDoWhileLoop.java
+	*	1718897420	0
+	"	21	30
+	^	21	31
+	.	21	31
+	+	1	25
+	+	3	31
+	+	4	1
+	+	5	42
+	+	6	5
+	+	23	0
+	+	8	23
+	+	10	27
+	+	7	0
+	+	8	8
+	+	11	17
+	+	13	47
+	+	14	67
+	+	15	37
+	+	16	25
+	+	18	10
+	+	19	9
+	+	20	42
+	+	21	31
+
+> ~/evenly.txt
+	*	1718750008	0
+	"	3	0
+
+> ~/learning/java/6-looping/DivideEvenly2.java
+	*	1718749664	0
+	"	1	0
+	^	22	31
+	.	22	0
+	+	2	25
+	+	6	25
+	+	11	24
+	+	16	61
+	+	14	48
+	+	15	9
+	+	23	0
+	+	13	0
+	+	16	0
+	+	14	30
+	+	16	34
+	+	15	0
+	+	23	0
+	+	17	49
+	+	18	13
+	+	21	0
+	+	19	38
+	+	20	45
+	+	24	0
+	+	21	13
+	+	22	0
+
+> ~/learning/java/6-looping/DivideEvenly.java
+	*	1718742703	0
+	"	1	0
+	^	18	37
+	.	18	36
+	+	1	1
+	+	23	0
+	+	1	2
+	+	2	30
+	+	3	20
+	+	4	18
+	+	5	2
+	+	6	25
+	+	7	1
+	+	8	42
+	+	9	5
+	+	21	0
+	+	10	30
+	+	12	16
+	+	13	61
+	+	15	41
+	+	16	9
+	+	17	31
+	+	18	43
+	+	20	0
+	+	17	28
+	+	12	0
+	+	11	15
+	+	15	42
+	+	17	26
+	+	18	36
+
+> ~/learning/java/6-looping/DemoIncrement2.java
+	*	1718738882	0
+	"	1	0
+	^	38	14
+	.	38	13
+	+	2	26
+	+	6	26
+	+	20	50
+	+	22	19
+	+	25	15
+	+	26	15
+	+	46	0
+	+	22	16
+	+	27	14
+	+	23	35
+	+	24	0
+	+	46	0
+	+	27	15
+	+	29	31
+	+	30	26
+	+	29	27
+	+	30	30
+	+	42	57
+	+	43	45
+	+	42	48
+	+	43	57
+	+	23	53
+	+	35	32
+	+	32	15
+	+	40	29
+	+	33	14
+	+	32	0
+	+	33	0
+	+	31	0
+	+	34	0
+	+	35	32
+	+	37	15
+	+	38	15
+	+	39	0
+	+	40	21
+	+	45	0
+	+	44	33
+	+	45	33
+	+	44	56
+	+	45	57
+	+	38	13
+
+> ~/learning/java/6-looping/DemoIncrement.java
+	*	1718730103	0
+	"	1	0
+	^	18	32
+	.	18	32
+	+	1	2
+	+	2	31
+	+	3	20
+	+	4	18
+	+	5	2
+	+	6	26
+	+	7	1
+	+	8	42
+	+	9	5
+	+	10	25
+	+	12	14
+	+	13	23
+	+	10	34
+	+	13	24
+	+	15	14
+	+	16	23
+	+	12	17
+	+	15	17
+	+	16	24
+	+	18	40
+	+	19	50
+	+	20	34
+	+	18	32
+
+> ~/Descargas/test.py
+	*	1718366663	0
+	"	1	0
+
+> ~/test.py
+	*	1718329908	0
+	"	1	0
+	^	1	4
+	.	1	3
+	+	1	18
+	+	9	8
+	+	14	3
+	+	9	24
+	+	14	29
+	+	14	12
+	+	14	3
+	+	14	16
+	+	14	0
+	+	9	28
+	+	10	29
+	+	11	20
+	+	12	27
+	+	13	11
+	+	1	5
+	+	2	5
+	+	4	12
+	+	5	24
+	+	7	9
+	+	5	26
+	+	6	10
+	+	4	9
+	+	1	3
+
+> ~/NERD_tree_1
+	*	1718329904	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/learning/java/5-decisions/rental_sammy/RentalDemo.java
+	*	1718235207	0
+	"	1	0
+	^	34	18
+	.	34	18
+	+	38	10
+	+	80	5
+	+	82	78
+	+	83	5
+	+	84	14
+	+	82	36
+	+	84	23
+	+	113	22
+	+	84	28
+	+	113	41
+	+	113	87
+	+	113	83
+	+	113	86
+	+	113	25
+	+	113	26
+	+	10	54
+	+	10	0
+	+	16	0
+	+	28	0
+	+	10	64
+	+	10	63
+	+	10	41
+	+	16	0
+	+	28	0
+	+	113	0
+	+	10	0
+	+	86	25
+	+	87	25
+	+	86	90
+	+	86	0
+	+	87	90
+	+	87	0
+	+	87	94
+	+	89	41
+	+	90	83
+	+	90	94
+	+	91	90
+	+	91	95
+	+	92	92
+	+	92	0
+	+	96	91
+	+	96	0
+	+	92	96
+	+	97	44
+	+	105	71
+	+	105	73
+	+	105	95
+	+	105	11
+	+	105	0
+	+	97	30
+	+	96	94
+	+	97	0
+	+	93	30
+	+	92	57
+	+	91	57
+	+	90	55
+	+	94	57
+	+	95	57
+	+	96	57
+	+	93	74
+	+	94	74
+	+	95	74
+	+	91	0
+	+	98	0
+	+	106	0
+	+	112	90
+	+	104	74
+	+	14	47
+	+	33	0
+	+	33	83
+	+	43	29
+	+	90	57
+	+	91	59
+	+	92	59
+	+	93	59
+	+	94	59
+	+	95	59
+	+	96	59
+	+	98	57
+	+	99	59
+	+	100	59
+	+	101	59
+	+	102	59
+	+	103	59
+	+	104	59
+	+	106	57
+	+	107	59
+	+	108	59
+	+	109	59
+	+	110	59
+	+	111	59
+	+	33	81
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	8
+	+	34	18
+
+> ~/learning/java/5-decisions/rental_sammy/Rental.java
+	*	1718216393	0
+	"	1	0
+	^	52	19
+	.	51	18
+	+	2	11
+	+	3	9
+	+	4	13
+	+	44	63
+	+	49	30
+	+	40	46
+	+	43	38
+	+	44	38
+	+	49	12
+	+	49	0
+	+	49	11
+	+	49	0
+	+	52	57
+	+	46	37
+	+	47	45
+	+	48	11
+	+	51	0
+	+	52	0
+	+	45	0
+	+	49	0
+	+	45	0
+	+	52	0
+	+	50	0
+	+	49	24
+	+	52	18
+	+	45	0
+	+	51	0
+	+	50	0
+	+	51	18

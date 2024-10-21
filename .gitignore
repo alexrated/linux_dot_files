@@ -1,0 +1,36 @@
+# Ignore system files:
+.DS_Store
+Thumbs.db
+
+# Ignore IDE config files:
+.idea/
+.vscode/
+
+# Ignore nodejs modules 
+node_modules/
+
+# Ignore compilation files:
+dist/
+build/
+
+# Ignore enviroment files:
+.env
+.env.local
+
+# Ignore log files:
+*.log
+
+# Ignore temp files:
+*.tmp
+*.temp
+
+# Ignore backup files: 
+*~ 
+*.bak
+
+# Ignore images and pdf:
+*.pdf
+*.jpeg
+*.jpg
+*.png
+*.heif
